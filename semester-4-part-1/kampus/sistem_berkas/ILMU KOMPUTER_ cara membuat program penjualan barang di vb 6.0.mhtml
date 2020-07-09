@@ -1,2793 +1,0 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?m=1
-Subject: ILMU KOMPUTER: cara membuat program penjualan barang di vb 6.0
-Date: Mon, 9 Mar 2020 01:18:26 -0000
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----"
-
-
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-6743995E534D5AD873FB0647CE7CB1EF@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?m=1
-
-<!DOCTYPE html><html class="v2" dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-9f7c612a-088f-4e34-b2bf-e86bca6e1e94@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-ab4e1aa0-e7d6-4dcb-9385-f40e83d7b0d6@mhtml.blink" />
-<link href="https://www.blogger.com/static/v1/widgets/1171200566-widget_css_mobile_2_bundle.css" rel="stylesheet" type="text/css">
-<meta content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" name="viewport">
-
-<meta content="blogger" name="generator">
-<link href="http://hendrasaputra10.blogspot.com/favicon.ico" rel="icon" type="image/x-icon">
-<link href="http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html" rel="canonical">
-<link rel="alternate" type="application/atom+xml" title="ILMU KOMPUTER - Atom" href="http://hendrasaputra10.blogspot.com/feeds/posts/default">
-<link rel="alternate" type="application/rss+xml" title="ILMU KOMPUTER - RSS" href="http://hendrasaputra10.blogspot.com/feeds/posts/default?alt=rss">
-<link rel="service.post" type="application/atom+xml" title="ILMU KOMPUTER - Atom" href="https://www.blogger.com/feeds/7613657766748673644/posts/default">
-
-<link rel="alternate" type="application/atom+xml" title="ILMU KOMPUTER - Atom" href="http://hendrasaputra10.blogspot.com/feeds/2035134166361193961/comments/default">
-<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/1894580631-ieretrofit.js"></script>
-<![endif]-->
-<link href="http://3.bp.blogspot.com/-1rasNNnB_qY/VqI4TA5dBaI/AAAAAAAAAMo/u8W-fppqIyA/s400/jual%2Bbarang.png" rel="image_src">
-<meta content="http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html" property="og:url">
-<meta content="cara membuat program penjualan barang di vb 6.0" property="og:title">
-<meta content="                      program penjualan barang vb 6.0    &nbsp;            Toolbox      Propertis      Ket         Form1      Caption        Form..." property="og:description">
-<meta content="http://3.bp.blogspot.com/-1rasNNnB_qY/VqI4TA5dBaI/AAAAAAAAAMo/u8W-fppqIyA/w1200-h630-p-k-no-nu/jual%2Bbarang.png" property="og:image">
-<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
-<title>ILMU KOMPUTER: cara membuat program penjualan barang di vb 6.0</title>
-
-
-<link href="https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7613657766748673644&amp;zx=837e827d-407c-49b5-83f0-054129beab3b" media="all" rel="stylesheet">
-
-<link rel="preload" href="https://adservice.google.co.id/adsid/integrator.js?domain=hendrasaputra10.blogspot.com" as="script"><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=hendrasaputra10.blogspot.com" as="script"></head>
-<body class=" mobile variant-simplysimple">
-<div class="navbar section" id="navbar" name="Navbar"><div class="widget Navbar" data-version="1" id="Navbar1">
-
-</div></div>
-<div class="body-fauxcolumns">
-<div class="fauxcolumn-outer body-fauxcolumn-outer">
-<div class="cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left">
-<div class="fauxborder-right"></div>
-<div class="fauxcolumn-inner">
-</div>
-</div>
-<div class="cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-</div>
-<div class="content" style="height: auto !important;">
-<div class="content-fauxcolumns">
-<div class="fauxcolumn-outer content-fauxcolumn-outer">
-<div class="cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left">
-<div class="fauxborder-right"></div>
-<div class="fauxcolumn-inner">
-</div>
-</div>
-<div class="cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-</div>
-<div class="content-outer" style="height: auto !important;">
-<div class="content-cap-top cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left content-fauxborder-left" style="height: auto !important;">
-<div class="fauxborder-right content-fauxborder-right"></div>
-<div class="content-inner" style="height: auto !important;">
-<header>
-<div class="header-outer" style="height: auto !important;">
-<div class="header-cap-top cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left header-fauxborder-left" style="height: auto !important;">
-<div class="fauxborder-right header-fauxborder-right"></div>
-<div class="region-inner header-inner" style="height: auto !important;">
-<div class="header section" id="header" name="Header" style="height: auto !important;"><div class="widget AdSense" data-version="1" id="AdSenseMobileHEADER">
-<div class="widget-content">
-
-<!-- hendrasaputra10_main_Blog1_1x1_as -->
-<ins class="adsbygoogle" style="display: block; transition: none 0s ease 0s; outline: none; border: none; padding: 0px; border-spacing: 0px; margin-left: 0px; width: 360px; z-index: 30; height: 300px;" data-ad-client="ca-pub-7128301598116920" data-ad-host="ca-host-pub-1556223355139109" data-ad-host-channel="L0007" data-ad-slot="6585169097" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:300px;margin:0;padding:0;position:relative;visibility:visible;width:360px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:300px;margin:0;padding:0;position:relative;visibility:visible;width:360px;background-color:transparent;"><iframe width="360" height="300" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" id="aswift_0" name="aswift_0" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 360px; height: 300px; overflow: visible;"></iframe></ins></ins></ins>
-
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=7613657766748673644&amp;widgetType=AdSense&amp;widgetId=AdSenseMobileHEADER&amp;action=editWidget&amp;sectionId=header" rel="nofollow" target="configAdSenseMobileHEADER" title="Edit">
-<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
-</div><div class="widget Header" data-version="1" id="Header1">
-<div id="header-inner">
-<div class="titlewrapper">
-<h1 class="title">
-<a href="http://hendrasaputra10.blogspot.com/?m=1">
-ILMU KOMPUTER
-</a>
-</h1>
-</div>
-<div class="descriptionwrapper">
-<p class="description"><span>
-</span></p>
-</div>
-</div>
-</div></div>
-</div>
-</div>
-<div class="header-cap-bottom cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-</header>
-<div class="tabs-outer">
-<div class="tabs-cap-top cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left tabs-fauxborder-left">
-<div class="fauxborder-right tabs-fauxborder-right"></div>
-<div class="region-inner tabs-inner">
-<div class="tabs no-items section" id="crosscol" name="Cross-Column"></div>
-<div class="tabs no-items section" id="crosscol-overflow" name="Cross-Column 2"></div>
-</div>
-</div>
-<div class="tabs-cap-bottom cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-<div class="main-outer">
-<div class="main-cap-top cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left main-fauxborder-left">
-<div class="fauxborder-right main-fauxborder-right"></div>
-<div class="region-inner main-inner">
-<div class="columns fauxcolumns">
-<div class="fauxcolumn-outer fauxcolumn-center-outer">
-<div class="cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left">
-<div class="fauxborder-right"></div>
-<div class="fauxcolumn-inner">
-</div>
-</div>
-<div class="cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-<div class="fauxcolumn-outer fauxcolumn-left-outer">
-<div class="cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left">
-<div class="fauxborder-right"></div>
-<div class="fauxcolumn-inner">
-</div>
-</div>
-<div class="cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-<div class="fauxcolumn-outer fauxcolumn-right-outer">
-<div class="cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left">
-<div class="fauxborder-right"></div>
-<div class="fauxcolumn-inner">
-</div>
-</div>
-<div class="cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-<!-- corrects IE6 width calculation -->
-<div class="columns-inner">
-<div class="column-center-outer">
-<div class="column-center-inner">
-<div class="main section" id="main" name="Main"><div class="widget Blog" data-version="1" id="Blog1">
-<div class="blog-posts hfeed">
-<div class="date-outer">
-<h2 class="date-header"><span>Friday, January 22, 2016</span></h2>
-<div class="date-posts">
-<div class="post-outer">
-<div class="post hentry uncustomized-post-template" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
-<meta content="http://3.bp.blogspot.com/-1rasNNnB_qY/VqI4TA5dBaI/AAAAAAAAAMo/u8W-fppqIyA/s72-c/jual%2Bbarang.png" itemprop="image_url">
-<meta content="7613657766748673644" itemprop="blogId">
-<meta content="2035134166361193961" itemprop="postId">
-<a name="2035134166361193961"></a>
-<h3 class="post-title entry-title" itemprop="name">
-cara membuat program penjualan barang di vb 6.0
-</h3>
-<div class="post-header">
-<div class="post-header-line-1"></div>
-</div>
-<div class="post-body entry-content" id="post-body-2035134166361193961" itemprop="articleBody">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><br>
-<!--[if gte mso 9]><xml>
- <o:OfficeDocumentSettings>
-  <o:RelyOnVML/>
-  <o:AllowPNG/>
-  <o:TargetScreenSize>800x600</o:TargetScreenSize>
- </o:OfficeDocumentSettings>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:View>Normal</w:View>
-  <w:Zoom>0</w:Zoom>
-  <w:TrackMoves/>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-GB</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="371">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Table"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
- </w:LatentStyles>
-</xml><![endif]--><!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
- {mso-style-name:"Table Normal";
- mso-tstyle-rowband-size:0;
- mso-tstyle-colband-size:0;
- mso-style-noshow:yes;
- mso-style-priority:99;
- mso-style-parent:"";
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
- mso-para-margin:0cm;
- mso-para-margin-bottom:.0001pt;
- mso-pagination:widow-orphan;
- font-size:10.0pt;
- font-family:"Calibri","sans-serif";}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1028"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
-
-<br>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-</div>
-<table cellpadding="0" cellspacing="0" style="width: 100%px;">
-   <tbody>
-<tr>
-    <td style="text-align: center;"></td>
-   </tr>
-</tbody></table>
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">program penjualan barang vb 6.0</span></b><br>
-<br>
-<br>
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">&nbsp;</span></b>
-
-<br>
-<div align="center">
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-yfti-tbllook: 1184;">
- <tbody>
-<tr style="mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
-  <td style="background: #BDD6EE; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div align="center" class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: center;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Toolbox</span></b></div>
-</td>
-  <td style="background: #BDD6EE; border-left: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div align="center" class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: center;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Propertis</span></b></div>
-</td>
-  <td style="background: #BDD6EE; border-left: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div align="center" class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: center;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Ket</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 1;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Form1</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption
-  </span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Form
-  Latihan1</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 2;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Label1</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Nama
-  Barang</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 3;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Label2</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Harga</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 4;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Label3</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Jumlah</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 5;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Label4</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Total</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 6;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Label5</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Diskon</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 7;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Label6</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Bayar
-  </span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 8;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text1</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text1</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">kosongkan</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 9;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text2</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text2</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">kosongkan</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 10;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text3</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text3</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">kosongkan</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 11;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text4</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text4</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">kosongkan</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 12;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text5</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text5</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">kosongkan</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 13;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text6</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text6</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">kosongkan</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 14;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Command1</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Proses</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 15;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Command2</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Hapus</span></b></div>
-</td>
- </tr>
-<tr style="mso-yfti-irow: 16; mso-yfti-lastrow: yes;">
-  <td style="border-top: none; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 114.2pt;" valign="top" width="152"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Command3</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 4.0cm;" valign="top" width="151"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Caption</span></b></div>
-</td>
-  <td style="border-bottom: solid windowtext 1.0pt; border-left: none; border-right: solid windowtext 1.0pt; border-top: none; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; padding: 0cm 5.4pt 0cm 5.4pt; width: 116.55pt;" valign="top" width="155"><div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Selasai
-  </span></b></div>
-</td>
- </tr>
-</tbody></table>
-</div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; text-align: justify;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; mso-margin-bottom-alt: auto; mso-margin-top-alt: auto;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;"><span style="mso-spacerun: yes;">&nbsp;</span><b style="mso-bidi-font-weight: normal;">Bentuk
-Form Yang Di Desain</b></span></div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-1rasNNnB_qY/VqI4TA5dBaI/AAAAAAAAAMo/u8W-fppqIyA/s1600/jual%2Bbarang.png" imageanchor="1" style=""><img border="0" height="248" src="http://3.bp.blogspot.com/-1rasNNnB_qY/VqI4TA5dBaI/AAAAAAAAAMo/u8W-fppqIyA/s280/jual%2Bbarang.png" width="280"></a></div>
-<div class="MsoNormal" style="line-height: 150%; mso-margin-bottom-alt: auto; mso-margin-top-alt: auto;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; mso-margin-bottom-alt: auto; mso-margin-top-alt: auto;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;"></span></b></div>
-<div class="MsoNormal" style="line-height: 150%; margin-left: 54.0pt; mso-margin-bottom-alt: auto; mso-margin-top-alt: auto; text-align: justify;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; tab-stops: 344.25pt; text-align: justify;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; tab-stops: 324.75pt; text-align: justify;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; tab-stops: 324.75pt; text-align: justify;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 5.0cm 324.75pt; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;;">Klik
-Ganda CommanButton1(Proses) Kemudian Ketik Source Kode/Listing Dibawa ini:</span></b></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 5.0cm 324.75pt; text-align: justify;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Private Sub Command1_Click()</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">If Len(Text1.Text) &lt; 1 Then</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;"><span style="mso-spacerun: yes;">&nbsp;&nbsp;
-</span>MsgBox "Nama Barang Belum Diisi", vbOKOnly + vbInformation,
-"Kosong"</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">End If</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">harga = Text2.Text</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">jumlah = Text3.Text</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">total = Val(Text2.Text) *
-Val(Text3.Text)</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text4.Text = total</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">If total &gt;= 1000000 Then</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">diskon = (10 / 100) * Text4.Text</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text5.Text = diskon</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">bayar = total - diskon</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text6.Text = bayar</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">End If</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">If total &gt;= 2000000 Then</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">diskon = (25 / 100) * Text4.Text</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text5.Text = diskon</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">bayar = total - diskon</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text6.Text = bayar</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">End If</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">End Sub</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 5.0cm 324.75pt; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;;">Klik
-Ganda CommanButton2 (Hapus) Kemudian Ketik Source Kode/Listing Dibawa ini:</span></b></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Private Sub Command2_Click()</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Dim i As Byte</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">For i = 0 To 3</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text1.Text = ""</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text2.Text = ""</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text3.Text = ""</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text4.Text = ""</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text5.Text = ""</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text6.Text = ""</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Next i</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Text1.SetFocus</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">End Sub</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 5.0cm 324.75pt; text-align: justify;">
-<b style="mso-bidi-font-weight: normal;"><span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;;">Klik
-Ganda CommanButton3 (Selasai) Kemudian Ketik Source Kode/Listing Dibawa ini:</span></b></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<br></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">Private Sub Command3_Click()</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">End</span></div>
-<div class="MsoNormal" style="line-height: 150%; margin-bottom: .0001pt; margin-bottom: 0cm; tab-stops: 324.75pt;">
-<span lang="EN-US" style="font-family: &quot;times new roman&quot; , &quot;serif&quot;; font-size: 12.0pt; line-height: 150%;">End Sub</span></div>
-<div style="clear: both;"></div>
-</div>
-<div class="post-footer">
-<div class="post-footer-line post-footer-line-1">
-<span class="post-author vcard">
-<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
-<meta content="https://www.blogger.com/profile/11139963555190204958" itemprop="url">
-<a href="https://www.blogger.com/profile/11139963555190204958" rel="author" title="author profile">
-<span itemprop="name">Unknown</span>
-</a>
-</span>
-</span>
-<span class="post-timestamp">
-at
-<meta content="http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html" itemprop="url">
-<a class="timestamp-link" href="http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?m=1" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2016-01-22T06:12:00-08:00">6:12 AM</abbr></a>
-</span>
-<span class="post-comment-link">
-</span>
-</div>
-<div class="post-footer-line post-footer-line-2">
-<div class="mobile-link-button goog-inline-block" id="mobile-share-button">
-<a>Share</a>
-</div>
-</div>
-</div>
-</div>
-<div class="comments" id="comments">
-<a name="comments"></a>
-<h4>1 comment:</h4>
-<div class="comments-content">
-
-
-<div id="comment-holder">
-<div class="comment-thread toplevel-thread"><ol id="top-ra"><li class="comment" id="c6013586294200924009"><div class="avatar-image-container"><img src="http://1.bp.blogspot.com/-uHxGizMbaxY/XL6P09aZcoI/AAAAAAAADSY/uk3OwtvTUsoNuUNiHCJiVRFkxcYDnmcuACK4BGAYYCw/s35/b82b658d-4a97-4b27-9c6f-066e84d3505b" alt=""></div><div class="comment-block"><div class="comment-header"><cite class="user"><a href="https://www.blogger.com/profile/09649915111408525465" rel="nofollow">ZAHWA KAYYISAH R</a></cite><span class="icon user "></span><span class="datetime secondary-text"><a rel="nofollow" href="http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?showComment=1510757264637&amp;m=1#c6013586294200924009">November 15, 2017 at 6:47 AM</a></span></div><p class="comment-content">Mantabs Tutornya gan, bisa dijadikan referensi nih<br>jangan lupa mampir juga gan <br>http://carakuvb6.blogspot.co.id</p><span class="comment-actions secondary-text"><a class="comment-reply" target="_self" data-comment-id="6013586294200924009">Reply</a><span class="item-control blog-admin blog-admin pid-590015170"><a target="_self" href="https://www.blogger.com/delete-comment.g?blogID=7613657766748673644&amp;postID=6013586294200924009">Delete</a></span></span></div><div class="comment-replies"><div id="c6013586294200924009-rt" class="comment-thread inline-thread hidden"><span class="thread-toggle thread-expanded"><span class="thread-arrow"></span><span class="thread-count"><a target="_self">Replies</a></span></span><ol id="c6013586294200924009-ra" class="thread-chrome thread-expanded"><div></div><div id="c6013586294200924009-continue" class="continue"><a class="comment-reply" target="_self" data-comment-id="6013586294200924009">Reply</a></div></ol></div></div><div class="comment-replybox-single" id="c6013586294200924009-ce"></div></li></ol><div id="top-continue" class="continue hidden"><a class="comment-reply" target="_self">Add comment</a></div><div class="comment-replybox-thread" id="top-ce"><iframe allowtransparency="true" class="blogger-iframe-colorize blogger-comment-from-post" frameborder="0" height="224px" id="comment-editor" name="comment-editor" src="cid:frame-DB42309040F0C07CFFB95A2CB4060C17@mhtml.blink" style="display: block;" width="100%" data-resized="true"></iframe></div><div class="loadmore hidden" data-post-id="2035134166361193961"><a target="_self">Load more...</a></div></div>
-</div>
-</div>
-<p class="comment-footer">
-</p><div class="comment-form">
-<a name="comment-form"></a>
-<p>
-</p>
-<a href="https://www.blogger.com/comment-iframe.g?blogID=7613657766748673644&amp;postID=2035134166361193961&amp;m=1&amp;blogspotRpcToken=7934363" id="comment-editor-src"></a>
-
-
-
-</div>
-<p></p>
-<div id="backlinks-container">
-<div id="Blog1_backlinks-container">
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="blog-pager" id="blog-pager">
-<div class="mobile-link-button" id="blog-pager-newer-link">
-<a class="blog-pager-newer-link" href="http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-data-mahasiswa-dengan-vb.html?m=1" id="Blog1_blog-pager-newer-link" title="Newer Post">â€¹</a>
-</div>
-<div class="mobile-link-button" id="blog-pager-older-link">
-<a class="blog-pager-older-link" href="http://hendrasaputra10.blogspot.com/2015/11/algoritma-pemrograman.html?m=1" id="Blog1_blog-pager-older-link" title="Older Post">â€º</a>
-</div>
-<div class="mobile-link-button" id="blog-pager-home-link">
-<a class="home-link" href="http://hendrasaputra10.blogspot.com/?m=1">Home</a>
-</div>
-<div class="mobile-desktop-link">
-<a class="home-link" href="http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?m=0">View web version</a>
-</div>
-</div>
-<div class="clear"></div>
-</div></div>
-</div>
-</div>
-<div class="column-left-outer">
-<div class="column-left-inner">
-<aside>
-</aside>
-</div>
-</div>
-<div class="column-right-outer">
-<div class="column-right-inner">
-<aside>
-</aside>
-</div>
-</div>
-</div>
-<div style="clear: both"></div>
-<!-- columns -->
-</div>
-<!-- main -->
-</div>
-</div>
-<div class="main-cap-bottom cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-<footer style="height: auto !important;">
-<div class="footer-outer" style="height: auto !important;">
-<div class="footer-cap-top cap-top">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-<div class="fauxborder-left footer-fauxborder-left" style="height: auto !important;">
-<div class="fauxborder-right footer-fauxborder-right"></div>
-<div class="region-inner footer-inner" style="height: auto !important;">
-<div class="foot no-items section" id="footer-1"></div>
-<!-- outside of the include in order to lock Attribution widget -->
-<div class="foot section" id="footer-3" name="Footer" style="height: auto !important;"><div class="widget AdSense" data-version="1" id="AdSenseMobileFOOTER">
-<div class="widget-content">
-
-<!-- hendrasaputra10_main_Blog1_1x1_as -->
-<ins class="adsbygoogle" style="display: block; transition: none 0s ease 0s; outline: none; border: none; padding: 0px; border-spacing: 0px; margin-left: 0px; width: 360px; z-index: 30; height: 300px;" data-ad-client="ca-pub-7128301598116920" data-ad-host="ca-host-pub-1556223355139109" data-ad-host-channel="L0007" data-ad-slot="6585169097" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:300px;margin:0;padding:0;position:relative;visibility:visible;width:360px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:300px;margin:0;padding:0;position:relative;visibility:visible;width:360px;background-color:transparent;"><iframe width="360" height="300" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" id="aswift_1" name="aswift_1" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 360px; height: 300px; overflow: visible;"></iframe></ins></ins></ins>
-
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=7613657766748673644&amp;widgetType=AdSense&amp;widgetId=AdSenseMobileFOOTER&amp;action=editWidget&amp;sectionId=footer-3" rel="nofollow" target="configAdSenseMobileFOOTER" title="Edit">
-<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
-</div><div class="widget Profile" data-version="1" id="Profile1">
-<h2>About Me</h2>
-<div class="widget-content">
-<dl class="profile-datablock">
-<dt class="profile-data">
-<a class="profile-name-link g-profile" href="https://www.blogger.com/profile/11139963555190204958" rel="author" style="background-image: url(//www.blogger.com/img/logo-16.png);" data-gapiscan="true" data-onload="true" data-gapiattached="true">
-Unknown
-</a>
-</dt>
-</dl>
-<a class="profile-link" href="https://www.blogger.com/profile/11139963555190204958" rel="author">View my complete profile</a>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=7613657766748673644&amp;widgetType=Profile&amp;widgetId=Profile1&amp;action=editWidget&amp;sectionId=footer-3" rel="nofollow" target="configProfile1" title="Edit">
-<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div>
-</div><div class="widget Attribution" data-version="1" id="Attribution1">
-<div class="widget-content" style="text-align: center;">
-Powered by <a href="https://www.blogger.com/" target="_blank">Blogger</a>.
-</div>
-<div class="clear"></div>
-<span class="widget-item-control">
-<span class="item-control blog-admin">
-<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=7613657766748673644&amp;widgetType=Attribution&amp;widgetId=Attribution1&amp;action=editWidget&amp;sectionId=footer-3" rel="nofollow" target="configAttribution1" title="Edit">
-<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18">
-</a>
-</span>
-</span>
-<div class="clear"></div>
-</div></div>
-</div>
-</div>
-<div class="footer-cap-bottom cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-</footer>
-<!-- content -->
-</div>
-</div>
-<div class="content-cap-bottom cap-bottom">
-<div class="cap-left"></div>
-<div class="cap-right"></div>
-</div>
-</div>
-</div>
-
-
-
-
-
-
-<ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_2_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_2_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" id="aswift_2" name="aswift_2" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;"></iframe></ins></ins></ins><iframe id="google_osd_static_frame_4953637282386" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe></body><iframe id="google_esf" name="google_esf" src="cid:frame-7FE35F934639A2161F17ADEFF86F27CB@mhtml.blink" data-ad-client="ca-pub-7128301598116920" style="display: none;"></iframe></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: cid:css-9f7c612a-088f-4e34-b2bf-e86bca6e1e94@mhtml.blink
-
-@charset "utf-8";
-
-body { font: 12px "Trebuchet MS", Trebuchet, Verdana, sans-serif; color: rgb(102, 102, 102); background: none left top repeat scroll rgb(255, 255, 255); padding: 0px; }
-
-html body .region-inner { min-width: 0px; max-width: 100%; width: auto; }
-
-h2 { font-size: 22px; }
-
-a:link { text-decoration: none; color: rgb(34, 136, 187); }
-
-a:visited { text-decoration: none; color: rgb(136, 136, 136); }
-
-a:hover { text-decoration: underline; color: rgb(51, 170, 255); }
-
-.body-fauxcolumn-outer .fauxcolumn-inner { background: none left top repeat scroll transparent; }
-
-.body-fauxcolumn-outer .cap-top { position: absolute; z-index: 1; height: 400px; width: 100%; }
-
-.body-fauxcolumn-outer .cap-top .cap-left { width: 100%; background: none left top repeat-x scroll transparent; }
-
-.content-outer { box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px; margin-bottom: 1px; }
-
-.content-inner { padding: 10px 40px; }
-
-.content-inner { background-color: rgb(255, 255, 255); }
-
-.header-outer { background: none 0px -400px repeat-x scroll transparent; }
-
-.Header h1 { font: 40px "Trebuchet MS", Trebuchet, Verdana, sans-serif; color: rgb(0, 0, 0); text-shadow: rgba(0, 0, 0, 0.2) 0px 0px 0px; }
-
-.Header h1 a { color: rgb(0, 0, 0); }
-
-.Header .description { font-size: 18px; color: rgb(0, 0, 0); }
-
-.header-inner .Header .titlewrapper { padding: 22px 0px; }
-
-.header-inner .Header .descriptionwrapper { padding: 0px; }
-
-.tabs-inner .section:first-child { border-top: 0px solid rgb(221, 221, 221); }
-
-.tabs-inner .section:first-child ul { margin-top: -1px; border-top: 1px solid rgb(221, 221, 221); border-left: 1px solid rgb(221, 221, 221); border-right: 1px solid rgb(221, 221, 221); }
-
-.tabs-inner .widget ul { background: none 0px -800px repeat-x scroll transparent; border-bottom: 1px solid rgb(221, 221, 221); margin-top: 0px; margin-left: -30px; margin-right: -30px; }
-
-.tabs-inner .widget li a { display: inline-block; padding: 0.6em 1em; font: 12px "Trebuchet MS", Trebuchet, Verdana, sans-serif; color: rgb(0, 0, 0); border-left: 1px solid rgb(255, 255, 255); border-right: 1px solid rgb(221, 221, 221); }
-
-.tabs-inner .widget li:first-child a { border-left: none; }
-
-.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover { color: rgb(0, 0, 0); background-color: rgb(238, 238, 238); text-decoration: none; }
-
-.main-outer { border-top: 0px solid rgb(221, 221, 221); }
-
-.fauxcolumn-left-outer .fauxcolumn-inner { border-right: 1px solid rgb(221, 221, 221); }
-
-.fauxcolumn-right-outer .fauxcolumn-inner { border-left: 1px solid rgb(221, 221, 221); }
-
-div.widget > h2, div.widget h2.title { margin: 0px 0px 1em; font: bold 11px "Trebuchet MS", Trebuchet, Verdana, sans-serif; color: rgb(0, 0, 0); }
-
-.widget .zippy { color: rgb(153, 153, 153); text-shadow: rgba(0, 0, 0, 0.1) 2px 2px 1px; }
-
-.widget .popular-posts ul { list-style: none; }
-
-h2.date-header { font: bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif; }
-
-.date-header span { background-color: rgb(187, 187, 187); color: rgb(255, 255, 255); padding: 0.4em; letter-spacing: 3px; margin: inherit; }
-
-.main-inner { padding-top: 35px; padding-bottom: 65px; }
-
-.main-inner .column-center-inner { padding: 0px; }
-
-.main-inner .column-center-inner .section { margin: 0px 1em; }
-
-.post { margin: 0px 0px 45px; }
-
-h3.post-title, .comments h4 { font: 22px "Trebuchet MS", Trebuchet, Verdana, sans-serif; margin: 0.75em 0px 0px; }
-
-.post-body { font-size: 110%; line-height: 1.4; position: relative; }
-
-.post-body img, .post-body .tr-caption-container, .Profile img, .Image img, .BlogList .item-thumbnail img { padding: 2px; background: rgb(255, 255, 255); border: 1px solid rgb(238, 238, 238); box-shadow: rgba(0, 0, 0, 0.1) 1px 1px 5px; }
-
-.post-body img, .post-body .tr-caption-container { padding: 5px; }
-
-.post-body .tr-caption-container { color: rgb(102, 102, 102); }
-
-.post-body .tr-caption-container img { padding: 0px; background: transparent; border: none; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px; }
-
-.post-header { margin: 0px 0px 1.5em; line-height: 1.6; font-size: 90%; }
-
-.post-footer { margin: 20px -2px 0px; padding: 5px 10px; color: rgb(102, 102, 102); background-color: rgb(238, 238, 238); border-bottom: 1px solid rgb(238, 238, 238); line-height: 1.6; font-size: 90%; }
-
-#comments .comment-author { padding-top: 1.5em; border-top: 1px solid rgb(221, 221, 221); background-position: 0px 1.5em; }
-
-#comments .comment-author:first-child { padding-top: 0px; border-top: none; }
-
-.avatar-image-container { margin: 0.2em 0px 0px; }
-
-#comments .avatar-image-container img { border: 1px solid rgb(238, 238, 238); }
-
-.comments .comments-content .icon.blog-author { background-repeat: no-repeat; background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg=="); }
-
-.comments .comments-content .loadmore a { border-top: 1px solid rgb(153, 153, 153); border-bottom: 1px solid rgb(153, 153, 153); }
-
-.comments .comment-thread.inline-thread { background-color: rgb(238, 238, 238); }
-
-.comments .continue { border-top: 2px solid rgb(153, 153, 153); }
-
-.section-columns td.columns-cell { border-left: 1px solid rgb(221, 221, 221); }
-
-.blog-pager { background: url("https://resources.blogblog.com/blogblog/data/1kt/simple/paging_dot.png") center top repeat-x scroll transparent; }
-
-.blog-pager-older-link, .home-link, .blog-pager-newer-link { background-color: rgb(255, 255, 255); padding: 5px; }
-
-.footer-outer { border-top: 1px dashed rgb(187, 187, 187); }
-
-body.mobile { background-size: auto; }
-
-.mobile .body-fauxcolumn-outer { background: none left top repeat scroll transparent; }
-
-.mobile .body-fauxcolumn-outer .cap-top { background-size: 100%; }
-
-.mobile .content-outer { box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 3px; }
-
-.mobile .tabs-inner .widget ul { margin-left: 0px; margin-right: 0px; }
-
-.mobile .post { margin: 0px; }
-
-.mobile .main-inner .column-center-inner .section { margin: 0px; }
-
-.mobile .date-header span { padding: 0.1em 10px; margin: 0px -10px; }
-
-.mobile h3.post-title { margin: 0px; }
-
-.mobile .blog-pager { background: none center top no-repeat scroll transparent; }
-
-.mobile .footer-outer { border-top: none; }
-
-.mobile .main-inner, .mobile .footer-inner { background-color: rgb(255, 255, 255); }
-
-.mobile-index-contents { color: rgb(102, 102, 102); }
-
-.mobile-link-button { background-color: rgb(34, 136, 187); }
-
-.mobile-link-button a:link, .mobile-link-button a:visited { color: rgb(255, 255, 255); }
-
-.mobile .tabs-inner .section:first-child { border-top: none; }
-
-.mobile .tabs-inner .PageList .widget-content { background-color: rgb(238, 238, 238); color: rgb(0, 0, 0); border-top: 1px solid rgb(221, 221, 221); border-bottom: 1px solid rgb(221, 221, 221); }
-
-.mobile .tabs-inner .PageList .widget-content .pagelist-arrow { border-left: 1px solid rgb(221, 221, 221); }
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: cid:css-ab4e1aa0-e7d6-4dcb-9385-f40e83d7b0d6@mhtml.blink
-
-@charset "utf-8";
-
-body { min-width: 960px; }
-
-.content-outer, .content-fauxcolumn-outer, .region-inner { min-width: 960px; max-width: 960px; }
-
-.main-inner .columns { padding-left: 0px; padding-right: 0px; }
-
-.main-inner .fauxcolumn-center-outer { left: 0px; right: 0px; }
-
-.main-inner .fauxcolumn-left-outer { width: 0px; }
-
-.main-inner .fauxcolumn-right-outer { width: 0px; }
-
-.main-inner .column-left-outer { width: 0px; right: 100%; margin-left: 0px; }
-
-.main-inner .column-right-outer { width: 0px; margin-right: 0px; }
-
-#layout { min-width: 0px; }
-
-#layout .content-outer { min-width: 0px; width: 800px; }
-
-#layout .region-inner { min-width: 0px; width: auto; }
-
-body#layout div.add_widget { padding: 8px; }
-
-body#layout div.add_widget a { margin-left: 32px; }
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: https://www.blogger.com/static/v1/widgets/1171200566-widget_css_mobile_2_bundle.css
-
-@charset "utf-8";
-
-section, nav, article, aside, hgroup, header, footer { display: block; }
-
-time, mark { display: inline; }
-
-html body { text-size-adjust: none; min-width: 0px; margin: 0px; padding: 0px; font-size: 0.9em; }
-
-html .content-outer, html .content-fauxcolumn-outer, html .region-inner { min-width: 0px; }
-
-html .main-inner .column-right-outer, html .main-inner .column-left-outer { clear: both; }
-
-html .content-outer, html .content-inner, html .header-inner, html .header-inner .section, html .tabs-outer, html .tabs-inner, html .main-inner, html .footer-outer, html .footer-inner, html .main-inner .column-center-inner .section, html .section { margin: 0px; padding: 0px; }
-
-html .main-inner .column-center-inner, html .main-inner .column-left-inner, html .main-inner .column-right-inner { margin: 0px; padding: 0px; }
-
-html .header-outer { margin: 0px 0px 10px; padding: 0px; }
-
-html .main-outer { margin: 10px 0px 0px; padding: 0px; }
-
-html .tabs-inner .widget select { -webkit-appearance: none; background: transparent; border: 0px; color: inherit; z-index: 10; position: relative; width: 100%; font-size: 14px; }
-
-.mobile .tabs-inner .PageList .widget-content { font-family: Arial; font-size: 14px; padding: 5px 10px; height: 20px; }
-
-.mobile .tabs-inner .PageList .widget-content .pagelist-arrow { position: absolute; height: 100%; top: 0px; right: 0px; padding: 0px 10px; line-height: 2.5em; }
-
-html .Header h1 { font-size: 240%; margin-bottom: 0px; }
-
-html .Header .description { font-size: 110%; padding: 0px; margin: 0px; }
-
-html h3.post-title { font-size: 170%; }
-
-html .post-body { line-height: 1.3; }
-
-html .post-body, html .post-header { font-size: 110%; }
-
-html .post-body img { box-sizing: border-box; max-width: 100%; }
-
-html .mobile-index-contents .post-body { font-size: 100%; }
-
-html .post-footer { font-size: 100%; }
-
-html .post-footer-line { margin: 10px 0px; }
-
-html .comments h4 { font-size: 130%; }
-
-html .widget { margin: 0px 0px 10px; clear: both; }
-
-html .post-share-buttons { display: none; }
-
-html .header-inner .widget { margin-left: 0px; margin-right: 0px; }
-
-html .header-inner .Header .titlewrapper { padding: 0px; margin: 10px; }
-
-html .header-inner .Header .descriptionwrapper { padding: 0px; margin: 10px; }
-
-html .main-inner .date-outer { padding: 10px; margin: 0px; }
-
-html .post-outer { padding: 0px; margin: 0px; }
-
-html .post-feeds { padding: 0px 10px; }
-
-html #blog-pager { margin: 10px 0px 0px; padding: 10px; font-size: 100%; }
-
-html #blog-pager-older-link { width: 30px; margin-right: 5px; }
-
-html #blog-pager-newer-link { width: 30px; margin-left: 5px; }
-
-html #blog-pager-home-link { width: 140px; margin: 0px auto; }
-
-html .blog-pager-older-link, html .blog-pager-newer-link { font-size: 200%; font-family: Arial; line-height: 17px !important; }
-
-html .blog-pager-older-link, html .home-link, html .blog-pager-newer-link { background-color: transparent; display: block; height: 20px; line-height: 20px; padding: 0px; width: 100%; }
-
-html .BLOG_mobile_video_class { display: inline; }
-
-html .BLOG_video_class { display: none; }
-
-html .main-inner .widget { padding: 0px; margin: 0px; }
-
-html a:hover { text-decoration: none; }
-
-html .Attribution { padding: 5px 0px 10px; }
-
-html #Header1 { margin: 0px; }
-
-.mobile-date-outer { border-bottom: 1px solid rgb(221, 221, 221); margin-bottom: 15px; }
-
-.mobile-date-outer a { display: block; }
-
-.mobile-date-outer > div { position: relative; }
-
-.mobile-index-contents { margin-right: 25px; min-height: 25px; }
-
-.mobile-index-title { font: 120% "Trebuchet MS", Trebuchet, Verdana, sans-serif; margin-top: 0.5em; margin-bottom: 0.5em; width: 240px; }
-
-.mobile-index-thumbnail { float: left; margin: 0.4em 0.5em 0px 0px; }
-
-.mobile-index-thumbnail img { width: 72px !important; }
-
-html .mobile-index-arrow { font-size: 45pt; font-family: Arial; display: -webkit-box; -webkit-box-align: center; height: 100%; line-height: 0.3em; position: absolute; top: 0px; right: 0px; }
-
-.mobile-link-button { font-size: 12px; font-family: Arial; border-radius: 2px; height: 20px; padding: 3px 6px; }
-
-.mobile-desktop-link { margin-top: 15px; margin-bottom: 0px; }
-
-html .comment-form { max-width: 320px; }
-
-html #comment-actions { max-width: 260px; }
-
-html .Profile { padding: 5px; }
-
-html .Attribution { clear: both; }
-
-html .AdSense { line-height: 0; text-align: center; }
-
-html { height: 100%; }
-
-body { min-height: 100%; position: relative; }
-
-.content { position: relative; overflow-wrap: break-word; }
-
-.content-outer, .region-inner { min-height: 0px; margin: 0px auto; }
-
-.columns { zoom: 1; }
-
-.loading .columns { overflow: hidden; }
-
-.columns-inner { min-height: 0px; }
-
-.column-center-outer, .column-left-outer, .column-right-outer { position: relative; float: left; }
-
-.column-center-outer { width: 100%; }
-
-.column-left-outer { margin-left: -100%; }
-
-.fauxcolumns { position: relative; }
-
-.fauxcolumn-outer { position: absolute; top: 0px; bottom: 0px; overflow: hidden; }
-
-.fauxcolumn-outer .fauxborder-left, .fauxcolumn-outer .fauxborder-right, .fauxcolumn-inner { height: 100%; }
-
-.fauxcolumn-left-outer { left: 0px; }
-
-.fauxcolumn-right-outer { right: 0px; }
-
-.cap-top, .cap-bottom { position: relative; height: 0px; background-repeat: repeat-x; }
-
-.cap-top .cap-left, .cap-top .cap-right, .cap-bottom .cap-left, .cap-bottom .cap-right { height: 100%; background-repeat: no-repeat; }
-
-.cap-top, .cap-top .cap-left { background-position: left top; }
-
-.cap-bottom, .cap-bottom .cap-left { background-position: left bottom; }
-
-.cap-top .cap-left, .cap-bottom .cap-left { float: left; }
-
-.cap-top .cap-right { background-position: right top; float: right; }
-
-.cap-bottom .cap-right { background-position: right bottom; float: right; }
-
-.fauxborder-left { background-position: left top; background-repeat: repeat-y; position: relative; }
-
-.fauxborder-right { background-position: right top; background-repeat: repeat-y; position: absolute; right: 0px; height: 100%; }
-
-table.section-columns { border: none; table-layout: fixed; width: 100%; position: relative; }
-
-table.columns-2 td.columns-cell { width: 50%; }
-
-table.columns-3 td.columns-cell { width: 33.33%; }
-
-table.columns-4 td.columns-cell { width: 25%; }
-
-table.section-columns td.columns-cell { vertical-align: top; }
-
-.body-fauxcolumns, .content-fauxcolumns { position: absolute; top: 0px; left: 0px; z-index: -1; height: 100%; width: 100%; overflow: hidden; }
-
-.body-fauxcolumns .fauxcolumn-outer { width: 100%; }
-
-.content-fauxcolumns .fauxcolumn-outer { position: relative; overflow: visible; height: 100%; margin: 0px auto; }
-
-.content-fauxcolumns .fauxcolumn-left { width: 100%; }
-
-body { margin: 0px; padding: 0px 0px 1px; }
-
-.content-outer, .header-outer, .tabs-outer, .main-outer, .main-inner, .footer-outer, .post, .comments, .widget, .date-header, .inline-ad { position: relative; min-height: 0px; }
-
-.footer-outer { margin-bottom: -1px; }
-
-.content-inner { padding: 10px; }
-
-.tabs-inner { padding: 0px 15px; }
-
-.main-inner { padding: 30px 0px; }
-
-.main-inner .column-center-inner, .main-inner .column-left-inner, .main-inner .column-right-inner { padding: 0px 15px; }
-
-.footer-inner { padding: 30px 15px; }
-
-.section { margin: 0px 15px; }
-
-.widget { margin: 30px 0px; }
-
-.section:first-child .widget:first-child { margin-top: 0px; }
-
-.section:first-child #uds-searchControl + .widget { margin-top: 0px; }
-
-.section:last-child .widget:last-child { margin-bottom: 0px; }
-
-.tabs:first-child .widget { margin-bottom: 0px; }
-
-body .navbar { height: 30px; padding: 0px; margin: 0px; }
-
-body .navbar .Navbar { position: absolute; z-index: 10; left: 0px; width: 100%; margin: 0px; padding: 0px; background: none; border: none; }
-
-.header-inner .section { margin: 0px; }
-
-.header-inner .widget { margin-left: 30px; margin-right: 30px; }
-
-.header-inner .Header { margin: 0px; }
-
-.header-inner .Header #header-inner { overflow: hidden; }
-
-.header-inner .Header .titlewrapper { padding: 22px 30px 0px; }
-
-.header-inner .Header .descriptionwrapper { padding: 0px 30px; margin-bottom: 25px; }
-
-.Header h1 { margin-bottom: 10px; }
-
-.Header .description { margin: 0.5em 0px 10px; padding: 0px 2px; }
-
-a img { border: none; position: relative; }
-
-h1, h2, h3, h4 { margin: 0px; position: relative; }
-
-h1 a:hover { text-decoration: none; }
-
-h3 a:hover { text-decoration: none; }
-
-.tabs .widget h2 { display: none; }
-
-.tabs .widget ul, .tabs .widget ul { margin: 0px; padding: 0px; overflow: hidden; list-style: none; }
-
-.tabs .widget li, .tabs .widget li { margin: 0px; padding: 0px; float: left; }
-
-.tabs .widget li a:hover { text-decoration: none; }
-
-.widget { line-height: 1.4; }
-
-.widget ul { padding: 0px 0px 0px 1.25em; margin: 0px; line-height: 1.2; }
-
-.BlogList ul { padding: 0px; }
-
-.BlogList li .blog-content { position: relative; }
-
-.widget li, .BlogArchive #ArchiveList ul.flat li { padding: 0.25em 0px; margin: 0px; text-indent: 0px; }
-
-.widget .post-body ul { padding: 0px 2.5em; margin: 0.5em 0px; line-height: 1.4; }
-
-.widget .post-body li { margin-bottom: 0.25em; padding-top: 0px; padding-bottom: 0px; }
-
-.item-control { display: none; }
-
-.item-control a, .item-action a { text-decoration: none !important; }
-
-.widget-item-control { float: right; height: 20px; margin-top: -20px; position: relative; z-index: 10; }
-
-.widget-item-control a { opacity: 0.5; }
-
-.widget-item-control a:hover { opacity: 1; }
-
-.widget .widget-item-control a img { border: none; background: none; box-shadow: none; }
-
-.post-body { width: 100%; }
-
-.post-header, .post-footer { line-height: 1.6; }
-
-.post-footer-line > * { margin-right: 1em; }
-
-.post-footer-line > :last-child { margin-right: 0px; }
-
-.post-timestamp { margin-left: -1em; }
-
-.post-footer-line > :first-child { margin-left: 0px; }
-
-.post .tr-caption-container { position: relative; }
-
-.inline-ad { margin: 2em 0px; text-align: center; line-height: 0; }
-
-#comments .comment-author { padding-left: 25px; }
-
-.comment-body { margin: 0.5em 25px; }
-
-.comment-footer { margin: 0.5em 25px 1.5em; }
-
-.comment-body p { margin: 0px; }
-
-#comments .avatar-comment-indent .comment-author { margin-left: -45px; padding-left: 45px; }
-
-.deleted-comment { font-style: italic; opacity: 0.5; }
-
-.Profile img { margin: 0px 0.75em 0.5em 0px; }
-
-.Profile .profile-datablock { margin: 0px 0px 0.5em; }
-
-dt { font-weight: bold; }
-
-table.section-columns td.first.columns-cell { border-left: none; }
-
-.post-summary { padding-top: 8px; }
-
-#layout .header-outer, #layout .tabs-outer, #layout .main-outer, #layout .footer-outer { margin: 5px 0px; }
-
-#layout .cap-top, #layout .cap-bottom { display: none; }
-
-#layout .region-inner { padding: 0px 10px; margin: 0px; }
-
-#layout .main-inner .column-center-inner, #layout .main-inner .column-left-inner, #layout .main-inner .column-right-inner { padding: 0px 5px; }
-
-.post-footer abbr { border: none; }
-
-.author-profile { margin: 5px 5px 0px 0px; overflow: hidden; }
-
-.author-profile img { border: 1px solid rgb(239, 239, 239); float: left; margin-right: 5px; }
-
-#blog-pager-newer-link { float: left; }
-
-#blog-pager-older-link { float: right; }
-
-#blog-pager { margin: 1em 0px; text-align: center; overflow: hidden; }
-
-.backlink-toggle-zippy { padding-right: 11px; margin-right: 0.1em; cursor: pointer; background: url("https://resources.blogblog.com/img/triangle_ltr.gif") left center no-repeat; }
-
-.expanded-backlink .backlink-toggle-zippy { background-image: url("https://resources.blogblog.com/img/triangle_open.gif"); }
-
-.collapsed-backlink .collapseable { display: none; }
-
-.status-msg-wrap { font-size: 110%; width: 90%; margin: 10px auto; position: relative; }
-
-.status-msg-border { border: 1px solid rgb(0, 0, 0); opacity: 0.4; width: 100%; position: relative; }
-
-.status-msg-bg { background-color: rgb(204, 204, 204); opacity: 0.8; width: 100%; position: relative; z-index: 1; }
-
-.status-msg-body { text-align: center; padding: 0.3em 0px; width: 100%; position: absolute; z-index: 4; }
-
-.status-msg-hidden { visibility: hidden; padding: 0.3em 0px; }
-
-.status-msg-wrap a { padding-left: 0.4em; text-decoration: underline; }
-
-.reactions-label { margin: 3px 0px 0px; }
-
-.reactions-label-cell { line-height: 2.3em; }
-
-.reactions-iframe { background: transparent; height: 2.3em; width: 100%; border: 0px; }
-
-#comment-actions { background: transparent; border: 0px; padding: 0px; position: absolute; height: 25px; }
-
-#comments .blogger-comment-icon, .blogger-comment-icon { line-height: 16px; background: url("/img/b16-rounded.gif") left center no-repeat; padding-left: 20px; }
-
-#comments .openid-comment-icon, .openid-comment-icon { line-height: 16px; background: url("/img/openid16-rounded.gif") left center no-repeat; padding-left: 20px; }
-
-#comments .anon-comment-icon, .anon-comment-icon { line-height: 16px; background: url("/img/anon16-rounded.gif") left center no-repeat; padding-left: 20px; }
-
-.comment-form { clear: both; }
-
-.comment-link { white-space: nowrap; }
-
-.paging-control-container { float: right; margin: 0px 6px 0px 0px; font-size: 80%; }
-
-.unneeded-paging-control { visibility: hidden; }
-
-#comments-block .avatar-image-container img { border: 1px solid rgb(204, 204, 204); float: right; }
-
-#comments-block .avatar-image-container.avatar-stock img { border-width: 0px; padding: 1px; }
-
-#comments-block .avatar-image-container { height: 37px; left: -45px; position: absolute; width: 37px; }
-
-#comments-block.avatar-comment-indent { margin-left: 45px; position: relative; }
-
-#comments-block.avatar-comment-indent dd { margin-left: 0px; }
-
-iframe.avatar-hovercard-iframe { border: 0px none; padding: 0px; width: 25em; height: 9.4em; margin: 0.5em; }
-
-.comments { clear: both; margin-top: 10px; margin-bottom: 0px; }
-
-.comments .comments-content { margin-bottom: 16px; }
-
-.comments .comment .comment-actions a { padding-right: 5px; padding-top: 5px; }
-
-.comments .comment .comment-actions a:hover { text-decoration: underline; }
-
-.comments .comments-content .comment-thread ol { list-style-type: none; padding: 0px; text-align: left; }
-
-.comments .comments-content .inline-thread { padding: 0.5em 1em; }
-
-.comments .comments-content .comment-thread { margin: 8px 0px; }
-
-.comments .comments-content .comment-thread:empty { display: none; }
-
-.comments .comments-content .comment-replies { margin-left: 36px; margin-top: 1em; }
-
-.comments .comments-content .comment { margin-bottom: 16px; padding-bottom: 8px; }
-
-.comments .comments-content .comment:first-child { padding-top: 16px; }
-
-.comments .comments-content .comment:last-child { border-bottom: 0px; padding-bottom: 0px; }
-
-.comments .comments-content .comment-body { position: relative; }
-
-.comments .comments-content .user { font-style: normal; font-weight: bold; }
-
-.comments .comments-content .icon.blog-author { display: inline-block; height: 18px; margin: 0px 0px -4px 6px; width: 18px; }
-
-.comments .comments-content .datetime { margin-left: 6px; }
-
-.comments .comments-content .comment-header, .comments .comments-content .comment-content { margin: 0px 0px 8px; }
-
-.comments .comments-content .comment-content { text-align: justify; }
-
-.comments .comments-content .owner-actions { position: absolute; right: 0px; top: 0px; }
-
-.comments .comments-replybox { border: none; height: 250px; width: 100%; }
-
-.comments .comment-replybox-single { margin-left: 48px; margin-top: 5px; }
-
-.comments .comment-replybox-thread { margin-top: 5px; }
-
-.comments .comments-content .loadmore a { display: block; padding: 10px 16px; text-align: center; }
-
-.comments .thread-toggle { cursor: pointer; display: inline-block; }
-
-.comments .continue { cursor: pointer; }
-
-.comments .continue a { display: block; font-weight: bold; padding: 0.5em; }
-
-.comments .comments-content .loadmore { cursor: pointer; margin-top: 3em; max-height: 3em; }
-
-.comments .comments-content .loadmore.loaded { max-height: 0px; opacity: 0; overflow: hidden; }
-
-.comments .thread-chrome.thread-collapsed { display: none; }
-
-.comments .thread-toggle { display: inline-block; }
-
-.comments .thread-toggle .thread-arrow { display: inline-block; height: 6px; margin: 0.3em; overflow: visible; padding-right: 4px; width: 7px; }
-
-.comments .thread-expanded .thread-arrow { background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAG0lEQVR42mNgwAfKy8v/48I4FeA0AacVDFQBAP9wJkE/KhUMAAAAAElFTkSuQmCC") 0px 0px no-repeat scroll transparent; }
-
-.comments .thread-collapsed .thread-arrow { background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAAJUlEQVR42mNgAILy8vL/DLgASBKnApgkVgXIkhgKiNKJ005s4gDLbCZBiSxfygAAAABJRU5ErkJggg==") 0px 0px no-repeat scroll transparent; }
-
-.comments .avatar-image-container { float: left; max-height: 36px; overflow: hidden; width: 36px; }
-
-.comments .avatar-image-container img { max-width: 36px; }
-
-.comments .comment-block { margin-left: 48px; position: relative; }
-
-.comments .hidden { display: none; }
-
-@media screen and (max-device-width: 480px) {
-  .comments .comments-content .comment-replies { margin-left: 0px; }
-}
-
-table.tr-caption-container { padding: 4px; margin-bottom: 0.5em; }
-
-td.tr-caption { font-size: 80%; }
-
-.icon-action { vertical-align: middle; border-style: none !important; margin: 0px 0px 0px 0.5em !important; }
-
-.comment-action-icon { width: 13px; height: 13px; margin-top: 3px; }
-
-.delete-comment-icon { background: url("/img/icon_delete13.gif") left center no-repeat; padding: 7px; }
-
-#comment-popup { position: absolute; visibility: hidden; width: 100px; height: 20px; }
-
-@media all {
-  .BLOG_mobile_video_class { display: none; }
-}
-
-@media handheld {
-  .BLOG_mobile_video_class { display: inline; }
-  .BLOG_video_class { display: none; }
-}
-
-.post-share-buttons { display: inline-block; margin-top: 0.5em; vertical-align: middle; }
-
-.share-button { width: 20px; height: 20px; overflow: hidden; margin-left: -1px; position: relative; background: url("/img/share_buttons_20_3.png") left center no-repeat !important; }
-
-.dummy-container, .google-plus-share-container { vertical-align: top; padding-left: 0.3em; }
-
-a:hover.share-button { text-decoration: none; z-index: 1; }
-
-.share-button-link-text { display: block; text-indent: -9999px; }
-
-.sb-email { background-position: 0px 0px !important; }
-
-a:hover.sb-email { background-position: 0px -20px !important; }
-
-a:active.sb-email { background-position: 0px -40px !important; }
-
-.sb-blog { background-position: -20px 0px !important; }
-
-a:hover.sb-blog { background-position: -20px -20px !important; }
-
-a:active.sb-blog { background-position: -20px -40px !important; }
-
-.sb-twitter { background-position: -40px 0px !important; }
-
-a:hover.sb-twitter { background-position: -40px -20px !important; }
-
-a:active.sb-twitter { background-position: -40px -40px !important; }
-
-.sb-facebook { background-position: -60px 0px !important; }
-
-a:hover.sb-facebook { background-position: -60px -20px !important; }
-
-a:active.sb-facebook { background-position: -60px -40px !important; }
-
-.sb-buzz { display: none !important; }
-
-.sb-pinterest { background-position: -100px 0px !important; }
-
-a:hover.sb-pinterest { background-position: -100px -20px !important; }
-
-a:active.sb-pinterest { background-position: -100px -40px !important; }
-
-.sb-google { background: url("/img/plusone/plusonepreview.png") no-repeat; height: 20px; vertical-align: top; width: 82px; }
-
-.goog-inline-block { position: relative; display: inline-block; }
-
-* html .goog-inline-block { display: inline; }
-
-:first-child + html .goog-inline-block { display: inline; }
-
-.goog-custom-button { margin: 2px; border: 0px; padding: 0px; font-family: Arial, sans-serif; color: rgb(0, 0, 0); text-decoration: none; list-style: none; vertical-align: middle; cursor: default; outline: none; }
-
-.goog-custom-button-outer-box, .goog-custom-button-inner-box { border-style: solid; border-color: transparent; vertical-align: top; }
-
-.goog-custom-button-checked .goog-custom-button-outer-box, .goog-custom-button-checked .goog-custom-button-inner-box { border-color: rgb(204, 204, 204); }
-
-.goog-custom-button-outer-box { margin: 0px; border-width: 1px 0px; padding: 0px; }
-
-.goog-custom-button-inner-box { margin: 0px -1px; border-width: 0px 1px; padding: 3px 4px; white-space: nowrap; }
-
-* html .goog-custom-button-inner-box { left: -1px; }
-
-* html .goog-custom-button-rtl .goog-custom-button-outer-box { left: -1px; }
-
-* html .goog-custom-button-rtl .goog-custom-button-inner-box { right: auto; }
-
-:first-child + html .goog-custom-button-inner-box { left: -1px; }
-
-:first-child + html .goog-custom-button-rtl .goog-custom-button-inner-box { left: 1px; }
-
-.goog-custom-button-active, .goog-custom-button-checked { background-color: rgb(250, 246, 188); background-position: left bottom; }
-
-.blog-mobile-link { padding: 15px; }
-
-#mobile-share-button { height: 18px; padding: 1px 10px; text-align: center; vertical-align: top; margin: 0px; }
-
-#mobile-share-button a { display: block; height: 100%; line-height: 18px; width: 100%; }
-
-.mobile-share-panel-outer { background: rgb(68, 68, 68); }
-
-.mobile-share-panel-inner { background: rgb(255, 255, 255); border-radius: 3px; font-family: Arial; font-size: 18px; color: rgb(102, 102, 102); }
-
-.mobile .mobile-share-panel-inner a { display: block; color: rgb(102, 102, 102); }
-
-.mobile-share-panel-title { background: rgb(245, 245, 245); border-bottom: 1px solid rgb(238, 238, 238); border-top-left-radius: 2px; border-top-right-radius: 2px; height: 25px; line-height: 25px; padding: 10px 10px 10px 20px; }
-
-.mobile a.mobile-share-panel-button { border-bottom: 1px solid rgb(238, 238, 238); height: 50px; line-height: 30px; padding: 10px 0px 10px 65px; width: 100%; box-sizing: border-box; background: url("/img/mobile_share_icons4.png") left center no-repeat rgb(255, 255, 255) !important; }
-
-.mobile-share-panel-button-close { font-size: 26px; float: right; height: 25px; line-height: 25px; text-align: center; width: 25px; }
-
-.mobile a.mobile-share-panel-button-email { background-position: 10px 0px !important; }
-
-.mobile a.mobile-share-panel-button-facebook { background-position: 10px -50px !important; }
-
-.mobile a.mobile-share-panel-button-twitter { background-position: 10px -100px !important; }
-
-.mobile a.mobile-share-panel-button-googleplus { background: url("https://www.gstatic.com/images/icons/gplus-32.png") 19px 9px no-repeat rgb(255, 255, 255) !important; }
-
-.mobile a.mobile-share-panel-button-buzz { border-bottom-left-radius: 2px; border-bottom-right-radius: 2px; background-position: 10px -150px !important; }
-
-.svg-icon-24 { height: 24px; width: 24px; }
-
-.crosscol .PageList ul, .footer .PageList ul { list-style: none; margin: 0px; padding: 0px; }
-
-.crosscol .PageList li, .footer .PageList li { list-style: none; float: left; padding-right: 0.75em; margin: 0.75em; background: none; }
-
-.crosscol .PageList h2 { display: none; }
-
-.PageList li a { font-weight: normal; }
-
-.PageList li.selected a { font-weight: bold; text-decoration: none; }
-
-.default-avatar { display: none; }
-
-.profile-img { float: left; margin: 0px 5px 5px; }
-
-.profile-data { margin: 0px; }
-
-.profile-datablock { margin: 0.5em 0px; }
-
-.profile-name-link { background: left top no-repeat; box-sizing: border-box; display: inline-block; max-width: 100%; min-height: 20px; padding-left: 20px; }
-
-.profile-textblock { margin: 0.5em 0px; }
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7613657766748673644&zx=837e827d-407c-49b5-83f0-054129beab3b
-
-@charset "utf-8";
-
-
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: image/png
-Content-Transfer-Encoding: binary
-Content-Location: https://resources.blogblog.com/img/icon18_wrench_allbkg.png
-
-‰PNG
-
-   IHDR         a~e   ÕPLTEÿÿÿ J‡4e¤ëéçìêèşşş¯¯¯u®l…¡e„¬c{•¸Òùùøôôô‘¦¾èçæèçääãáããâãâá×âíßßßíëéŸŸ„œ¶˜¥••‘“©îóöŠ•†††óòñø÷öíëêY}«T|®ûûû`v`w‘êêêêéèÿÿÿ¤­¶—¥¶¦¾úúùÁÁÁ¤ºĞÓßêØØ×ÀÑâøø÷úúú¶ÎÏÍÊÌÌÌ°ÆÛÜÜÜóóò[q‰¢®¼¡´Èğô÷°ÊEq©íòö__^òñïğğğ”bY   tRNS @æØf   ´IDATx^MĞU®1@ÑØA(33ÃCfØÿ’êqRõİÏ£Ø²"ò @¸ÂĞÊ*¹v&×gÉX="6Xzö$/"3É;ÉR\”õ¾Mb((üÖëJ©¾R®ûpK©OY›0¸«Q¦Ó†¸„şq‡r3ƒrõvá¡bÎ†Íj+Šh”r†ï½Î<ö_ŒÖl˜}lY„€üİ€èé»o%·ÒÍbßd,l/ È‚ÈÊåç¸N¥›ig¤Kõ    IEND®B`‚
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: image/png
-Content-Transfer-Encoding: binary
-Content-Location: http://3.bp.blogspot.com/-1rasNNnB_qY/VqI4TA5dBaI/AAAAAAAAAMo/u8W-fppqIyA/s280/jual%2Bbarang.png
-
-‰PNG
-
-   IHDR     ú   õÏæ   sBITÛáOà   _zTXtRaw profile type APP1  ™ãJOÍK-ÊLV((ÊOËÌIåR c.KK£D04006’F@¶9T(Ñ ˜˜›¥¡¹Y²™)ˆÏ Oºh-ØŒ    IDATxœì}yœÅÕösªºû.³ïÌë°ˆˆ,âAÑhTŒkLL4›æFó&ob¾˜Ä$šıMŒš¸$&Æ¨qß5®(® ‚"0Ì0Ì¾ï÷Ş^ê|Ü;3÷v÷0W@‚¼÷ùİ?à™ÓuªêTuUŸ>ušV®Ù¼±iP!ƒöW	!±‡Æ83+Û),Ï{wËÚš¶öŸŸö©É“&ÑÍ¯“"3‹2ØAÒm]õ\Owv{Á`¥*&M+Ÿ·ØvP´hºŞpÓ/¯şîw5MŠ=RÙ2Ø7!¤Ü´vİ²ªœ–~Ú¶İ,M×µ?ıñÖ¶ÖÉÅe•1Ë¶M++œ@ÛUÍ ƒ}$¥¦ëÑÇÙİ‰ähZ0;‡(±‹ã!^I‹Ô¤`R¬†ÿÌ¬˜‘Á.@êº 03JÙJí±’‰„Ô48¦ÃÈXgL"Óq¦Oªè]¿bdÿÅ€ H¬b°JAÄÊƒ…t8n3Jš/ÌsæÍzªÛƒ†Ìª=ş/)µ5/=ı›ÜèÿäL©YVJ•N™*uİ¶­½ÕêıRÓßıçÏ~±F» @Yƒ³OüÖ´RKí‘AO‚¸úX\Ust™ÈÌ¥1 ¤4tİŠÅ„ã@1 ˆ FŸåÜµ¶vòÂ¦£²¶¾7¿ªâÎUïO<ta0''¸mËqSŠmÅÀˆ“‚[±hÀ0B†Qo“i" ĞÄĞBÀQòúYe(, 34í‚<®5´,;ÿb!$#c±t!„ ÊÅ¼Ó?sÁD)H9–b)…R3ÌŠ•R!4)Àñµ_9B+ÀŠD°m;ŞÿRÕ®zàÁ58ƒ¤B8ã*Ú)I!„²-eš, f"blÓ©ïì;qö¬Åç?òÈßıÃ¿¸ùº™3¦Õìhxö†w••«Fn~0Š™ÉRH!M…ˆƒÉI
-Ñ‰™_¾ô¹§ŸiZó¶Ô´††ïœsvì…gOt”ĞôÌDJ">ÆÁ`ÅLDB VÛÖõOİ¾1ë ½£aÊìÓ˜5¹¤$»võßo}½}V¨¬ü€)UÇ»æ³K~\<ğÚšÜ/n]]ö|uGßÚ†ü«¾ñÅ<M² Èö§VÛ³.úŞÙİ !„Øs{ÆıR’”2ÒÕ9°£B‚FV¾{Pş£×\]ÿÅ¯œ~æ©§œr"³Z³æ{.¹ôâ3l¯«'–¯áe_(Ç,Ÿ$…ÂTˆoíF‘Imùé§Ç‰îîîWW¬ø×/à¥ÓH 3Ò@
-NÌ4£R’²ÚZö–úşç/½L¯ùªŸûô·—}ú¤ÙRŠzÿÓ/VLbõöv}ÊE¶ùi^»ìK¿²¸nî—¢“_–Odoß´¾rò—Âï?ÖI ”±ËÎARôÔlé~â6
-•ºş(`O¡ÿßïOXz¬m[BÈûÿõÈÁÁ¶ÿ¾Ïô)-ÚŠ“.Å‹ˆà€­¡Y¡IJHK’‚'í¸óóóï}şù}¸ÛaC—™™”>„d÷áÃUo¯*Vvpş²ù9-|ë®Šÿ~èÂ"3†’™Ÿ¿ğŞ­Õ¯Î›{öÒ³'†lË‚”¤æŸq|E^p<ıèğÃ¯Ì;òXİœùõ¼ÇšĞº®¿·oMë¬KN¾ú¤Ğ4áHÎ,I;… )H”Zv9‚ÙÃ<d;Œõ“şáO—Ö×7ÔÔÖÍŸwğW¿şÅÛ¥0V?^"LåyïDšæ!HJ!,¦¨JÌ
-ø 4İí·,ËŒôJh’%Ëg~£ıˆ ô¼|ÉIg.ıÌ©}Øü0/˜å0ƒ5)stÙgõw	6ÂÙˆDN"¬”t€@Èà(Al¼qj÷ê_‡§ŒëîêìˆDºÛzzú£Q+c”´~€0‚B×¥®“®]ºîèÁ5²húâE…ù›·TßtÃß»zz„ C>¬Î(’ššNš.tCjºˆÿô@Üÿ@DÃZ\4))ş/)D8 ÿyç<oŞüC†'’f×=qÓäƒ6Â¹%“fBÙ™‡¥1!…`¬À$R÷F£¿3
-5(8½V–Ì+&Ñ"H!X*)ˆˆ¥ )(~+$R’$"iµO¾OÍ¶ÍºÍ›ÚZ»ºêŞ¯'–egöŒ?p?…B’FÀÈ/„@‰Ìm‘<
-{ş•ú¿ÜòåÒÀ¾üí%•SPÀEã¶åĞ°»œ;2+lkzÜF¶Btè½”&ÄĞFyÙ)+,ÇyğåU7İù0	iZÎ™ŸZÜŞÖ:nÆ¡¬=
-eå3íÍnødB!ˆ@"ñ¼*Ì½ş×ß-YÿÈ_>Xq®Ş¼¶1ô…%œŸZDR)˜„B)Db*	!¤[Ó
-§z€£˜@Rï‹Ô>\ø©ù%±<æLŒ×N IÈÈÍ¥’qĞŒä?Á—ƒìWîgÆ!³ËøŸR²ß}†Y”T>tƒbpÂGAmfç	!¥Åˆ¯H”´R4¹ø˜¥DË èº~ÁŠÛ>|ë‘·4]WJ±r’|Œ
-dGú1À x‡‘ĞYŸ»6pçEÿuò|àÄŸ¼¥ªÜp˜•ØL""¢hC$8Ò±©° ©Ám+f‡™DÊ‰Öô;ÊQÌ„ŒEÆ€ Ò)İ€¦»şH€¦ër h©ÿMÀ$H3‚qc)°5äS ÇÖ4î¤ºa‘ešœyí÷!u]Â±ì”Ğ¡š 0Û¶G!¤.È¶‡öÚš¡+ÛVŠ4C'‚²LG±Ğr,'é†¦ëä˜#³©RÊµ¯¿²<«³X8Ì;²Ôù¶‰Àú¥Ì¤ø­*NHÂúöî†ªã&N˜x¿ªÕ'={Û•ßü†&vº-pìø=”9gñÁm#¾Î$±56™èy¶cØ
-Ê¶ÁÊ6GÄ‹dK)ÇŠÛ7³©„)S¦>ğÀÊÂ‚Ğî/DÜ1 ,($‚Ã~$23$ƒıÌ…•K®øÑÚT ›X)†5üŒ$„î€-!ÁÊMÆ§œ›ô¼Èğ2şb~¥ùêõ¯L:z	äQ‚PÎØ’¾u&Ïµwyê¬TZd:I¿¯26ÍFJÑ³‘”R*°Jr÷t4¯o±dVÁpIJ~ÿqL>
-ÁÜ‘z¡¯šPAR¼„@ã{¨8Ã±Í^Æ—$B¤¶‰œ²½BòÖçQv0²‹wNúëmİŒÂÉZ¢01Ğ‚‰I­ ¬(ª_ÄŒ!ÄÎ$}ëÜÓ€î4ù¶ºêU#<RšRØü¦=8éØè¬EéŒu _ÏglôŸµ‘jxoú¬CD.,†mÛ ´¾Ÿ¾×‹2cDNÓñ·§qÎ,äÉ”^hjE ŒÂ$I©aÍV,œ
-Ç•ñ%…@g'bƒ(ÏNÑûĞë8zJCc>J|P‡iEĞŒDGa°­˜RŒä>àÎ§qñ‘rg’¾*êš±y>55BÖ4¢TC˜GJSşö4.\€ 3i›ØZ‡+wª×¯ç36úÏÚè-?«<Xæ’âgœè¶•—¬í®¨"M‡cû,£ğœ€Ò½Œz_’ ÷º,5(•™^¢øšî&¥×Á_I$RÆ_œdO·øv /™VCüz>c#{ÃF
-âúIÁ­‹ß$ı¼ßô½o_©ùşR]ñz¸ıìC²›Œ;S*èø¨ğ%ÓÕëQÀ±Ó’ôQÁ`Ç‡ôVÏ·}É´’¶ŠŒöåz{—IØA{ ™‰”A{ "±õtAj>¤¯¤ğLE/ãK¦¯×—LK/üHéMùâ'éSg÷Ódü±Ä¯Îi’é4$c£Ñ$ÿc6r«èoAo‘ aHM=÷7t§BpG#úR%…äÍ«IÈ1ş¤@_w4’HÕûêƒèj›ôÕ[»ÊIV‹Ø 7W§\H3¢û±CÒG…àÖZõÎ¿Ij)ds5b)íe¥ûÌÈ˜$”ÃµÆè@ßÏØÈ_Å^²>|Ë5—è¶—ê.y·GÓåÈ;(,š>ôªqˆŒ;L†]ûò²¿ğeFó+MY&K†H—´M--½BÔ9şòDjÓ˜a[Ğ cHúÔÙRĞt7I"E/<˜JòP¬— C9ct JÙ L$"Á‚RÛ);6%1â£ØÈßûRôzld›ÖõÓr·N(JòÚA "å¸2#mî"ã«‹ÚÌhbÒÅ:¢Š•I +A¤K¿ÊøêMc ’n14Ã‡ôJúÔYBzÄâGŒSôz:0‰d†£6Ci$Æì@†1W§'Î›³§>¼ã[é»d#‡¡b
-6±®†)e]R:6¾æØ¿lä®áhIÂ>” R™êı³'M+ëR4uEóÂúª»ÿ°÷†æ¨¾ÅfÚŠ¿]º|É¸õıË_lúØMÓ	ë,ÿ—êóËƒw}nZ8±‚ì
-TLÕ_4µ²(¸¹±_¤ŠCßx æ¶¶ØşÔÉ{û×NˆY«ù ¾Ào^lzz}û²9ÅË¦æŒÄ3íĞıº!2ámË_lÓÓ˜E‰«Š€İK¤Ó-¯58àÏÕSïª~k53Ÿ13w?ëä½ÍÿŒ„ïrÿ€H›MÌ[ZX“B È3Äê†Èéøà	Yh–é$âl%`ƒ`ÚCçå 2ˆLKÁN*Iğ’`+Ä£%Œ€0ã—˜
-…A0†ÅPCwyh¦aPJM"Îğ#Iƒ fÓf˜Œx’C@À Ì˜‚ƒDÚ „!‘P'@D¦Ãˆ)èA° (Á&<\Oi¤Üñ`k¸CõLô‰RgĞİOAM @XAa
-Z½­wîÄíV\ÌL ‘!ØâDĞÈ0ÈT€¥Z†õšœ¨%µ„ØP@@¼„€0dêHmP%¥!é{í˜Ñ·£ªHS¯{Ò`Ç`[)Gp‰¸«…r
-S]+
-)g‰x ‡²ò’ã&İÌh¤môàÈ†”İ-pÊ ˜
-××^c«I%aô´=±¬êØÙeÌèì7¿÷Lã]m±ÛÉ?un‘åpA–¾n{ßÏ6›}}·Vqê¼âş¨C„²¼Àæ†Ş÷vt3k\V@†²½×œtgÍœly|‘ñƒe•º+î©y®Ï¾u^şòƒóÂší°£¸¾#ú—5×<¡gĞúÌCukMšKdÆÏ	Û7m¾&!uö[9!í¤;6¼ak€¼e^ş…‡—ÕwFsCÚ÷ª_Õcopj>7¥8×°lî°*
-ƒ¿}¶şê}5_˜Ršx¯®ï°‡ëÿ<7pá±Sy§õÕúÈ/W–¼î‘?nÔ¾5>`+\sb¥.Å™ÿøàùCq£Œ«*ƒß<z\vHDÏ<T·vÀyê¸Òy“r²ƒ2jªÁ˜ó“ç›îé4# 9˜ÔùÃOÃ16†Í/U÷=³`!×wuŸXZxL©qÙ’r"z³ºgÙS;ZZ:¯ª(+ 5IÕ-ƒÿkÇ7'…¾vxIE~ f«3ïßşj¿}Ïâ¢Sæ1ÃrØ²Õ÷Ÿ®_ÕcovéYuö¬ì€PŒp@fµ¾¼í«›,CK…Êe"NyÀRŠ{Û)¿4Å¥î•ôWsÍ(å¦±Aè†ËÏÆİ-”[ìrmûÌ PNJpp7(”|¡€9 3’Rcªn#[ÑTéc—$ˆ»šS÷ë^Æ$b3Â‘¾ÔKê6Ãğ…EÅ=_›ñîö¾Ë¬ÃöO¹gK8 ××õM¼µú®n_|LÅ}o·?´¶#‡ÏÈ¿¬,ˆ†æ‹—T>únÇÔ¿n«ú×öp@şæå†Ï?[=ù¶m­=1ËQ_xlª4Ä©3ón~¹¹¦mğÏ§TÂá/¯íşï'ë³ƒÚ]o¶ÖµGçNÎııYS®z´® [ÿÅaÅ°†#‹¡öŞûÎ¦9!­ºeğ¾wÚóÂÚïÊBÄDL}yIEĞÓ¯ıĞ´ÕíçN]Vd@à·Ú²ƒÚM/7M½§6¨‹ËO¨„Ãw¼ÕÈœâ¯>¶I1ò‚Úë"“nÚĞ)iƒÂãÃ§{óËÍ5m‘[N,DïàˆeØ|òŒÜ5µ}—?²#?KÿÅaÅ –?×òØºì ö½'ësÂÚmçV¤åo¬ùÜÄug{ÅøÿwÊÄ{ßlYßë ½qV¾xbÖ7®³õ©ƒ‹ÚËÜòèºÎœÖÕo-}¼Ë¦fØ4ø£§ëc–úıqeP8÷…¶!sBÚ/kˆ˜ÎíçNıT¡›¯78{Bö”›·Nıë¶·¶õÑWÛdˆä[;Á6Õ@Wjí¥ê6¦®*ş’qèU-5)+AtÁ6S$Y©ºˆŸ‹äv× G§»K5„‘¥¥¬Ê‘ó–º—0S^IüÉ:Äø™)ö2şbLYyîÒ”ƒ¹G#à‰]ªØU0æcöZ İÜ‹liâgGIÃWÛJaüT åèunVÊ' æHA±—º,e£©^¬î»òøŠ!¶µF @£\C øÆú÷¦å°¾mCßÿA–“Ú…ã=.Ûôå­½Yº `K°a)G±´ù8
-M]ÑÎ˜Q@€¼Ó3¿Ì `Ù
-@œdf‰ÉÓ½ € À%ÓÑÑ»¶)¢ßYZ2Ä¶VìŞ”{¶ •5ı_=²ìØ™ù9!Í´ èÂà¶}¿: ,0˜},,|¢ñØ°43Şl¿õìªìgê~¿ÛœĞùãÃ	Àå¢$;¾«¬n´DtZµ}àâÃJ›Uh;:£@ü ~¹ºçG•°P
-%ÓD­™¡	`ò´Ô3½#,ŠÂ©'†”ó–¦Æ‰úIú«Âq²¨"åZfQT	FJ’ó–ºù’BŠqU®A‰î.Õ†v„©w,oh0<ÛÄáBÇdüÅüJSN¼¦ÚSB'-N2Ğı_@Ã3ëÛW,(^2#×ĞÄöÈ³æp$Rh3Y`\{Ú¤­Í½'+õÉC™ÉˆFşí®óPôñˆ+5¬xÆ-ÕI(F¶qåh£;†{†‘XıX!ª®>iB8 Gêé²QÄùñ©“ <½®}ñÔ<÷C®«ò¾p^àµnëv]z|eø•&Åü¥c*^×~ÈäœÒ¼ ƒ‡¯ñÇ‡¨ºîôÉ VW÷”äèîãÕÉÍ”ôPİÀç»c~e*ƒ+
-‚¼Óæç$öMîÆ~#ĞOÒw\±çÚQ[z¤W‹çã"û×Hí+Jîv†§7˜GÄ	 Cä(¶lYêÙ÷»¶ÄÔ3sÒF=Ëáƒ­Ã)D’µsü3ª/‹‘x­ê"’~7?ïŞãJ–„äÈS+'à}A€b>:W»í˜¢áfZJ©'Fê™ì`‹§íJÔ3I]¦ç¬'\İÈ<5[›VÚÒ4°¹3Æ#eÒ°"WÅã9XR\T®W1ñNfA0me;ÜØıë½;»¡|Â±½G2‹ó´¸O©04òNÍd K¦Åœ’Ãzl¢ê„ÙE÷¼Ñòíµ]pTP¨€Ä—04‘Mtèba®ìQ¨Ì’ NÉÕ‚º  ¡PÓ$eä‚,ùöˆ¿aÙ†ŒëĞt8î­²–‚-/<¬´(ÇxiûÀÊ>»0$”åks4 º&L½y,G…qöä¬‹©H4“`Ú¬ÇëÔ4:5W«K ³Âò½®ÄY°!t)²ƒÀ¼ÈJ (Ôt) š«q¯ı¾Ã#®$F¼J“óõùai*>¬$0¾(Dü &ßºĞ Hlg†d”‘” Â†„$8lZ*!]…AQâë©…ZÜ‘P™%ó4Z:.X’(ıkõ¢,I Ãáıu.Ñm/7^²®7àÚ5Ijo‹™êÍS'8c;JtÄSMC ˆ±¼waŞø<q2¦°"ßøşE–ÃÃoÔõ_õ^ßOgfó¸ò÷vô4¡˜(Ïz£ºgcsä¸é¹Si’ş¶¶óÆôaågJ‡÷f/V÷-Ÿ™ßoªËf[1!CFmè‚Ûú­O¿Üˆ?ˆYXµ¬äÈòk[#Í=±ˆ¥ª5%b¯ÈÓ®Z\ĞDÌYòH+r K½¶¼ÜV6$›tR/oë‹Ùêÿ2qãşÙì@P;Dò-'ŒsÇl@Ó´#¨‡D•gTê’4)î}¯ëÂù…¦­b¶êtN}¥1ºç˜‚ÉEÛQ!C.xºéCò§–„£–ÒEÔr#'(ÚĞı“±ÀĞº3ÕkËËmá!ç« <´¡ûÚÚÁ€¡ÅL¯9­"j)Úû~SÍ,D,6Äu¯¶?Ğgc·.Î;¸<è(4úÁËm+ª²ªÈ¶m'lˆ˜­ÅÙùä=Ÿš‘[’£·÷[‚ÈQ¼°*÷òkÿØ$ï<GóVmäˆëN$}A
-ÏÁ>ß¡ë;È}I–Äõ­ã“B„zĞ¡’q#K-ö¯ëôe‹Ü¢$—ŸP-5„DşÈ	~i¯Q›sÜˆ/ãK©îÄ"¢lÊp×ÃÅ_ù_Ò	`ŒOn©‰§n9§uŠÆ“A]>°ê¹ºM(’N•×±¼»a4Šü×İƒÎüOÃ¥àØ€ùÜKß‚ú,€&®^×Œ¶zL>hÄNBâpÈñ`Œ?J‘p6cíÛÎ²+ <¾¡ë¿Öö  õÎÍ•ÁPî½öO5åĞs¿3>}²xº9Ş`(û5Îû/³®™ I‚ck[ß}gú¢…7è]ûbpñ	PÂrÉ³- ¦dgı¦.š¨0Q0dÄ»î\ë‹È.Jº8wMŞE „‚²‘m–¡iWÒPçòˆ·%š6rvš‚İ^ÿbpÎqQÇYøxS¢Î=­0#(œè]uİ|í–/÷'Ì'Ÿ~?şH.QfT]}ò„›^l¼ìõ.è›¯sÃYSVİ¶å]‹ƒCO£éUírâ¬¤B0¿1pÆ•Ik?IŸq%œ†Íªf~Ì9#s‰„S÷¾(®¤PnÒîÓ‰İw]ÜFc¶eW¿£ÍX”t¤_â0y9’@·½ÜxÉú¾à>°"»~Œ9êğ5“ÃWŸ4~Ã¾ø6Ãvø ñÙW?±ã7Ñ H½îêİ.
-qj~ÏYãão¥Jnß‰z·‹FÚó'Å,õÄûİW~8ÔÅØÇ§ÓW±ÏØ(S«O­˜Tlè	3²2lˆÊ{ë@î\Å>·"¹m…¸~‚º"±Ÿ×ÎñûÖ¥¯óÇk4!).€a½¶›L-0(éÇ5ƒ÷ÿekÑĞœ€z«¥ÚRA·‹}Zç[O5¨×ûcKş±­ÃA¹F‰§ßnñíÀ8iˆkx5â€Ô<Iüô~ûŒd@,zªéğ‚RŒUQDÁd9_»a#°‚“'y'6rkñ\î8@Jöã}ÈÙ°›j´ÑfWÌ˜{í4 ›±Æd 5Îğşä£!Hx5¦HR`Ölßƒ@Òë1×’:‹ö#ì?	À®ìm§ï„ÒÄ^¨ç¾ }äUíşD¼Åşù&ıRŠîrOø%ÎÜÃY<ı‚1Ê‚Oøcú™VÓSá¯7½L«ŞÏØÈ_Å^±‘®£õèïzÁÈ`†Öê'y°'…TW¤J9Û7$j9ãK‚y Kuµ HÑ»îÕÓ66é£Nãfv¬‘ê96è´Õ®"ÍˆµúÉDÅN$ıT¨öûƒ×ÜzÛê86˜\”c­~’ÍÈ˜$;–Ó¸y½¾=Ÿ±ÑÔF¨ÙàšHò´‹¿óh'šˆ'º );_„²H¤’š&t=•B¤éD<*3š˜dÜ*Â¹"”é-ÉÍH‘Dz€¤L!IPn¡†cIzUè:eç#@H"5Cèzüxÿ
-PNf¥AA’Úz}z>c£ÿ¤,#¸´8Ô™j ypõê£8\ƒf@K}RbNyƒ4¼¾¥~í,.JÁìÔ„—…”ı3³È)pëõ%ı
-LñıÇ!$ø<!|Zç#é§Bt]K†÷ù™ü:Ğ$òTÛO¯·ç36MÅ^±BÙ©ÆDŞ£}ğ2£Â+é{mzúêõ¯LšzÓÖ’–Š´¯İÉØh´?n‘û¶­fÁ'£¸¿ÉÏË±à«wWfW´ãuÍà“Å0ÏÇîÎ`s¯ZÚ×2%ˆ†ÍÅ³{¥TG%¶’DÙ±HêI;H/3
-9äğIÑkÅHj©ÇıH¿ÙqH¦î¡y(Z*ØŒ‘nŒ%éVaÅà\(Ns’Á> \¢ËZ‡Ú™“ç’Ï0t-‚c)Ï]Z>@³M“F¾£Dz ï+3B?{^–MJÔ³ªWSVV9}DRê÷ÿ*ëÜïóP`…—ñ'…°¶ğ@>cÑ°Û>®7ğıõª¹c>zµÈKwZ1ò I¤ºÛ¬mïœ˜,Û×5xå¡Ù7¿Mß‰¤WEâ\Ù°HÛ¤Hf>Mı	‚eZÇuÔM›~İ0hÄ£.‰`[ß88üÛ·FÜ$£lFÍU„–~‡Â Hêøç/ñ½'k¡Û^Ú~É†l#iG¤zE0ËòØ±Ü‰•‰86H¤À^f4R9`™šJe°Œ`JÒ•ÑHwÄV”t#eieÅxAt	    IDATMZÀµªH¿ç¤4Í+éQÑq…lšm¿×ÔÚQTT”™KŸ0³â‹_øÜÿ»ë-ÑìäZö‰P¶kÛåG2[&¥féé¼~zÁÖŠü¤ U¡»–3‹¬\Ÿ¢Ôû-Á°²)!9 òåì€5|­{ÂŒF
-	¸wbNäjé758ñD²ìd#å¾§@Nij¢ÁÂ=‹ ù´Î+é[g ‹zê©sçÎEŸDz½ÃÙwû‘äZÌ„\ãJCüPµkßïw»í7å›'=Q”İ¼ä±Ï7(Ê&ôGôŞ/_Ş™Ty×·²ƒÖN®M÷á>1‹äë'>5gÂ£Íİˆ”Î¦¦9'½ptvØÜi¾*Ò¯Œ_²âßÍà“¥”ÿöá#Ô±[|-ò{ä…¡Nxñ¤¾K¦ŸRpæ-yDC=ºşâæ¾\*^BŸ- 8Gp„aÛC$€Cœ#•èsŠ ©r+º|Õñ7-±>t&6ñ“;>á•“^92Gw‚r¤êS‡ ÄËÏœ(“£©>l‘ø«“¢(ñ'Áš`[Ñp•ÆÀGxo“Á>å}é‚†x`¢[«¯æVÄ<şğòæ[Z”p 2¤ch6 ˆZòîï½°cÂ­¹“5õ«CŞmÈİŞ›»°¼ş‰mSœRU½¾¥üÚú²¡úq}UıÔÂö{6Ïx /”#8I/éJ
-A;Ç°AôÃÍ·/|êhÀésÄ&6—„#—½_õ•Òî&ngĞ“µ“+ÃÑëêJ¯Ÿ¶cr~—åÈ×t|vô«nV
-×T=mó?·ğ@_(‡¸ÅY9ƒçLß¼µ³äšíå?ŸÒôıÚŠá=²B.ßãêôşğ9Øe÷·gB
-(Ûû)\øf²³ÉZ»ıœÅ“Ş2û{0^ÅrÁGgÅÎ9ô‚¥·Ãã¤sÖ‚,úÓÉÓ×Ÿµ`Åñê—MÚ~Ö‚§°Šú œ>{åYV[Ş2=¾z€8:8ì7s”€)û,­¯×„4ó@ÜÇtl8öé×œ9û6(qXyóÙ‹Î8gÑé'O®]2ş=(:}öÊs~Î¢ÿĞ´ĞàÙO?÷ĞÓO™´ıÌg-×
-E`Æàà1ãZÎZ°â´Y«NË.›ş,°ûD±ÍLığÎÒ6S	‚sÁNô÷`Ä’¤ùæìK&İmè	ê±ï½ô™µÍX:w<O$ h~0vÓqŠŸoY4é-8â˜N×7Æ¬ü—¶Í¢Ÿ7YõšíHº®©?–õ½ñ­l‹+Ë:n~s9ı ıìùÿºçø'aj’„¹îEîé (âĞÔÒ7_8ñù—OxùùgñExÇW„fÃ×,|ãşGÜôàÂXû¥·gÑ¯÷ªâÆ“n¯º²¢éæ7O¦Ÿ5~pÃ©ÿºeSîKo^àøÏÓ5­§Ï~–$3†;}ö£ôÓ–7jæßwîÁïÿl®êç¶‘Ô	älÿ@ÒH$%3ø„‚áÁÌ2ß|‚Ì˜`ƒ´mÕ¸Í56Pû¾+ı·@NR%ƒ;|ìy";?ej2£¨‚rŠˆìGzÃgß½~ÃgşzÇ‚õvÉ
-(Äë"_¼vÒ¦‹n\ò8”GŒl³/ZvÍæñÈøóoÎA^„À¶"în+8sæºêoş¶(çÅ˜ÀÊ	/>U”9@ÜÒ{àæß·ñ ‡cï~îÑõosßt© ùOë5~ë·.Ø8Ó )dÅÂFäÎwÅìª»;JÎœùníW~·ãœúcÙÈ
-é…‹<¹q9ò£¶2 P „“ÎRBs(1eXÊÒR³i²RÆôCØ»,g°@ˆğ±ç‘ËùæKJMŸ4Ë560}+eüÄ’g-s<ù 0G0q_oxê—0óÙ˜ E'öŞyÎÜ™ÿºh[ë—ÁÔÃ”xĞ'À!Å}ÙŠ…¥lqÍŒšÆŞ’©º¼µw™‰ï;ğPRU‹©?šû×úÂš
-ohÈ½«9o[Çø«fÔ`À¸ëìŠÅï_ºÄ6°…b¡	†Íñ2'ßñÍù^Ğ¢P`Å )01(±µcëíí‡®;ÿ3JvÜóÖÃ0œDdƒ™Y´_Ãwû|ïHğ$sMxíÒÒ¬è¤ò¶¢¬¦ò ÕÊ$r£şyÅàW.¹ñå€Ğiê-=_ûÍÁÕİƒ%¿½í¥–â£§4dÚO.ì_\Ôè¸t|ûMÍåyGÏi¶÷æßş³Å›Ûz'Ûv`ØÚìˆìø|RtRy[AVëÏªH€b*Íî>ïícp>h¼ÄÖÌâ¶œ@dYNôSå­e¹-óK‹P_\ß—31¿ı—ó¶féfÔ
-Ï),Éi0½¸á€¼©9Á–‹Ê»îèÌ†#OYõÀ»§‚Ğ3¼‘¼ì§ØƒO¼ŞX;ü¾ä[ûÂâ»Jso9«øœZóswküğ»ßé6îêÍ¾ëO×ğwËÿ÷…¯Zzlhås—.Y
-àâY'yÈ
- W1î¦G?Ğøï4¹ÁœøÌq-ø÷ò9çÿ‰7Ÿòáe?o(Il;‡}oÙÏG*ş«Æì‚Aêàû.X}úCs&¼Ñ;XöÙ)E—u"€ieÇ~Í?İVùá!Ï.Ÿs>€Gßı×3·PñC ÇÌ¼ä›-Ï•äŞ~ÙÂ¹w<yL½²ğ¿yüÿÆKşÁïê)'šVßeÜßŸ\PºoyÒ--Õ©ÿĞ˜ğèòÉî¥amİ±“
-'4GÄ„\ßWÔÑ@œOÜ{oÇ¯#¹››~RÓ›»±ş:€¶t”®ŞvC(`}Ø<„~¦X~ØV³¡iâk;cÆÖöò†Áh(=šTkë©È›¦X€dÂf"ş"dnj™Ò>P6Ó¶õäo¬¿Îa­7’€³¡ñ ÓùEÄoë,éˆ†76üÊv„&ÌšŞÜM×nhš67l~wÑúw·ÿ–H â«gÔÿl[e~–5v~¹>ÙH<ØL«îè9€n{lõ%­üâ¤ü©Rï»çgY']âÊ´j·ÔôSòÆA·òãÛ!!»ß^‰ùÇæ#áï¶xïyÌ>Ò‚% @S`kVâĞc$™N|:èœÓÛÔ×o¡t
-4Lœ¯Éş'şZx’,™ĞmTüM«†ûÿ‚£–æO7üÓ­t¼½ì„)B5¯Sæô ‡@€ÆìEc3¦¥ +X„ÿªèøÃéè¦ZDµx¯¾¸ü¹I9ÏTış¢ü™Ó“ƒt£ë^ÎIGÚq…lšŞÿÖâ#^°`A:vË`_€R*:Ø÷çzolåÇÚ)§ïßdŸö
-fr?’mË¬Y8àĞätÂİo¿pıi'm—ı&ñX;ºí•¦KŞÌiÌË}&‹ç(z=)K=*º™NËŠşÏ¢Wl_Ş·¨3kùkGäËÔWI©*2é
-ÿ‰„İÊ´Úq}¥¶µ"ox"Å?1ÆîÍ£²ïë[ö!YÍŒF‚=G¾¤^Oi„GC>{ò¥å‚â=l=Ù.0lOÀ¡KEæér‡ùr_Ò;´<~¼ı*Ad:( FÀº©=o„"™8ÔvÚÇÌ·o¢Ğ}j6æÇ{)ã+ÿD‚ˆ@D¨»Qœkş^]!}HÏÅ ¼ßI÷aüÅÒÖë_™tôú:¬É{øÜ_ÒS £”eY*ó¢ö…Q	!}n ¾¤ïèM…†H7Lä$"ºñUcÊÁ"˜•|©ÓÛAš.BI’DVãV½bjò	Y73
-©{Ù¶dNÑÈ=Dlój}\•È.‹ôÑk·ÖÉ¢rJš$lFÔ@,—’ÚÁŠÅ¶¾˜y(%õ¤W…RÓ+
-—¹|üÄ)ı=]îÍ`_ƒsòrõ'»¿™Ulãi‡$ghğ'•ãtÔk¥’¶büÉZ4Hšë@+´¢r’®¤+Lz<îs‘•7&ãK’ÔA2u§Ä2¿z ÒS C„²=ß$–{ª"´¢r÷Ñ?I·
-âÕ‘œÁ#¶½ßÛÀöeHêXÕe“†´¢r×ë ’H„²İ;úp‹Ñ`„p{«ôqSÀì:W(CY 85’UË+áÔï³»™QHyKÓK'ºõBz
-d™Sà*Ph4ÃÕ
-¡éÂÓ:IŠB¢¿w[èÊ$äúD",NÎ”%„wBJ™SàÈ/ñ5¼ûHfÒWÒë:÷aF#ÓÓë_™ô
-ômÅ(­SEÑÿ-Ìş0Ø¼bğœGÊ ƒv>+Òÿ1ç÷®"s´ïcÂ~p;ßı”ÅŞW+¾/[Ò{C¾ßÉò#ÓÕ;š–t$S
-d Ä™ğ=[ªPzÌ»d£Cée­ú9FÒ#ĞĞÓ€^›ŠF‚VIjİü6û„ÏIwĞj-B2¿tDRÈÁ÷V†^ÂÃ	J=Œ?Iät·r,¢•M…#©õ>ó×Ğü´âñcŞ…ˆm~Û˜2{ÄÙH¤{íFcâ#Dè}ê¶¼Ó.y›ä'éUÑñmÚqˆZ×ÔÜf[—Ã€iš'ŸòéÂÇ¯l-ş‚ÌnØBXõ[bµr^1œB˜uhE"œ”³N9=Ü˜»üWĞª—dÇ2k6f,HÖ‹õ+iâÒä¶Ğm«š/ù0R’´JR>¬šÄ~ìA«$5öÄ§ú’»´'IHv>ŞO2UEÄ·¨qFÿ[Ó8hşüù“9a±`hâõFíä×;K’?Å´«6 $„çZŸ¡ë;ÈıG¾ghµA\_.·ËMZÑ”uÊ]û±zŞW¯e|ôzÏû=Ô0ûè+é×¥¸°°°¨¨È§J|tôtwúlÂvÇF¬ØñŸ¡ûQ›o‚”ø˜ıà1oo#“õ{ObéÌÑ¿Ø—?öÃï[H3ÙÁ¾bWuHxcòHz>€ÜŸDGüÁk,ÆŸLqwéÕÒ%ÓÑKä="Oô“¿¤§ÀŒ¿îãCjÇîº !Hz|ÑÂoèúrÒG‹æy!Ûµ]ÍÉ“Ô;ïú©ÓÓR"	«¹ÆéjI‘r`íÉj¼Œ?IätµXÍ5É3„¤ÖıØÍv[İØ¤·@!#›Şd;É™F¤zÍÚ®o™©È@ç]?MÙ[ûIú6$³íì„0w|Øûâİ)sI³v£èMÏÊé¼ë§*20&É¶Ùô&R9ŞyŞ’wÛªæK6GKİ^;Ó;jNBrêŸ—ñ'wÏkçS ¯cÈëÊ#¡¹ûIºT´B|‹¦õ¼±øˆc2GÍ÷zº:^m§¼ÑUêöÚíŠ @"×N°×kç3ÈıG¾ghµBşbmIõÚ±Ÿ×Îï=	«V[‚I×œ‚¡\p-1d©î$Iù8»|ÈİóÚùè«Â/Í¥Oëü$}’ÁŞÀîØH)FZ¹>}¹ÿÈ÷l)Èàµkµåı‡¼óê±OŸšébĞji¯÷ÔG½Ôjù<eÁÿ|¯ä×›&}­bİƒYEB„ˆj,€H”ĞbiN™à(£ÇÒ@ÁyB	-Š`K Bw”¢Rª2¹ï;%÷3q{äIK²ïƒÜª!gC@`cv_¬ Ôã_æh,hÈ… 5›rÍÒGÛ|èÆÍÑí;OøWK_ù’;j¦¼3~XÙ|ú¯Rÿóú)çO®¾µzzœ\qà+«wÌ¹dÓã´}~.¹}ì!|İß.BPÚîo"¡‰D{-ÀââL+ƒ&]6%¯L¹RÍåÂ‰OÍ.ÛZ¤; mJn÷ü‰ßœ;á
-ƒxNù¦"CÁ6¦ävÏåìqÛàH|÷·OŞïiû¹¿Óôq»E2Ø3 ·9vÕFé»¿Éoû“~Z<îoî¬CG3ˆ9ñZû]×ªîömªá®&@@a@a@\ó[„Âçrú?í/¯œ]º5Yò¦W^Òd,{U$Œ7_š[Q}ã+/ıñå•??â‘ÎÁ’‡kú9è—Ûöë_ˆ…/*êj#­ëÑ›í–:We|Hƒï<O$’ª'¢¼+FŒ!ÜßcÖlH¹Áƒıíw]ÇCÒ£Âßu‘ÁîƒÅ{ÄF2·oêyáŸD2…¬ÙÀı=É¥Á±Ûïº–ûÇ&­Xôƒ7"Y/Ş~Îus§ÛWµ\¼9Z†û»b±a=yÖÅµí'
-r 0‹Ò¼Ú¿¾õù«¶M€î¬;zëô9ÎùÛM%A³m0P½âæ©÷]Z’m³µŸùÃä{/‡¢È×Î}ñÃ¯Ÿüæ‘0µ3‹».˜öáÂ‰¯ÿás~ÓZX¡Ë½´êçZ+ ²)áş~=ãşŞƒèéêxµA;å®òtÜß{8h5}÷·{h5%Üß9©A«~™V	î—˜³¤³±ñ³Ÿ8ñŒŠ¶¼kÁZC:€¸¨ ÷÷ç}ë¯}gĞ,A'‚¦„P0¬bvögJ{-Es¼éè°Å+KŸÌ	öÜÿşQ3JJ(şô¦¯^r—2­´.IŸL«™½İÇ ß§ô]´ †r¼Y ï¸òäş¤O¦U”²L8Ò	~@“¥3èª"à h”¬ "¶Paç†¸zóÍçÏ-DÌhÔ¢[ép4º®ª+æ¾¥«ğŞëãºñ[møéúéK&n6•íó!™İÇò:Áöu<!BCó×géÿ\úÏ…“¿~IiW#°ôÏ-:ñÒ#~G>Ó•wò¿¶|é‹Ïo=ÁùÆ¡¿œ²#úõ3¦•^sßâÕ¶„¥-=ğ¼yãŸ]ñläÂî_´?ñš‹¬+‘B]2ïyØ2jü§~gÃÇJkî;?×,Bâ…¬w|áÃ2„ëdivâŞÌ xLİLOuæ†O˜J´-[7Ú+ ò‚ı Óä‡ÿ‘şgP)¤Ç ÄƒA‡…&×ÒÊ¶ä\èO¦ÃŒFz?é¨[–•9Ò·7°«6ò†şÃ`WõjëCÔA8)="‰XÍ½¼JÁäK‹ì©÷\!ß—à¸s¢(l…~÷f ¸²8“@q8Zzç¶öÆ««ëû»ºNB`8´íüßÑ­M‰'+G<´`Í¯'½÷í-•ßü`Öeï×™@N(8æµÂrÊIÎ´êG’İŞ W¦dZíj‘¹ÅÉ),Ù2U´?%™+À¶e6l1&˜¼ö‘ôªP<¡(çø9K¦LÑÛİ™Ùçí„ºæùÌİ®Ûäôu9ı]FùÔ$·9½"˜šT•ÍšFåtÒô1H¥œŞv­ ,y°¡­å“ë¬ÂäóIZ
-`Œ¡È¢ ±ÉD†É !*b@± "“dŒ¿ÆÒœ3Ş8¼şÌo|ûıŸ€4 æ8ŞcsìKúœ‡õ~UÚßaÍÊ†ëãm~’j‡(~Ç®|ccœÏìóö Ùï´ÅàyO³«6˜Ó;Í¬¼1œşd:ê¦ÛW5_¼Õªt¹¿…+×ğßÜ¤ìÈu3 úC5Ÿıƒi'Ö=]‹T=ñÕÉ†'¦ÛG¯?éÑK‚]}MD wÚW""Á¬Æ”ôªh`xã!3Ø]TºnJ»a#"rO0ÿ±á«"=½¿(£-eÙIîïaád°ò!ı%=®s/ŒÏ‰NyôÒd¦Ä°ğì5}õú“~^½ú&de•–¤GÅxÊœÍß[ØUö]¿±á«"M½Š]Ob{ïCcã3óÊ`ÿEæ›A{ ÚP&†Ì	Ù±O_6B(ˆ=æe`@)8Îx=¥D¿¾J7Â%c£½sBÖÆªqçvt*7’?UÓ[ïüqá)_•yÅÉ™VÍæm"Nö’ıkŸË¿49Óª‹ñ'‰ì®4ÆU%'UíxôÆœCOÑK'Az2òÁÁ©óF—Dj ×jÛ˜2;9ÓªŠô·?ôû’s¾›’ÅÓ#éUÑq…Ú1Ï^×ŞÕcÛ»»MUŠ‹Š
-gL›zô¢Ú&Í%¿¾òëùŒüUˆXİ¦èÖµù'\œi5V³A/™ ²R2­¶İõ“¢3.¡ì“l[ÑÍkB†¤Äšçpò²dƒÒí¯¶^¼Õœà´êxÂ=àÎµ·w;¿Òüôú“şw;—œ@0GI{LI—Šˆ+¸~Fïë•“ªæÌ™»û¯e¥á`°z ç°;&#‹ÒîôÕÿqÅ)"áöb“ğxÀıUøëÂµ"í€üE)¶”e¹2­z¢_Û'"1G]îå¾ÖËø’¾¥ùêõ%ıôúÈìfF+Ğ+™ªB‚ r”ª¬?qbÊË¸]C4íîlg$¬£éª›§ÂVgvöxC|˜T¯]ÆÙğ‘±§>ÆœÉØº?!³á?]‹O>YÑÉ|¼ğ†¸×N¹‘ÒıÅ¾äò;ØçïòûÒÁX¡+öÛ“ú#m¯]ÆF»éµÛõ¯Qx¾#ÁİõènM¾ß’ÔÚşƒÓÛ™r&aµn·»ÛRH!ûß{©OİŒ/Idw·Y­Û]IU;Ÿı»Õ^?&é§WD¶¼“â0%Rƒ}±ºM)©è@ûÃHé}_Iß†ìøô•OÏgl4Z_™[z^}(%m‰Xİ&5Ø—Ü-¬œö‡ÿ ¢c“ÙòNJT¸ğt İ¾ªùâj{’ô<KyãÉ} zÉQÄ˜ÈDòcY’¤ÿ»Ÿáâíó#ÓÕëwB6½Ö¥2Í—ñ©]«öÔQóH$ÒÓÕQkşRç¤äWIi6íc°Qz×î»6J0pÇï|ééİî¨_”k[JÃÃ^»ÄÁ>÷•£œÊ°í¶Üî¤Ü?¼bŞK`‡Ê#iĞ¤HyøX(m½á Jšî¤Y“4[‘~é^»oÛh/Gr‹i  |ÃSİ°R¡n™÷Fo,ë¼s&Ëğ"e‡×o¸`Î•ó_øìd=eÛ`i›N¼£©wÂqo?YÛGÍIĞÇ‘×."ù	Ëê–gõùîo¬µµ)…Õ¦£¨µµZKPëÈZKdŠ“õŠj-­ÖÖ 2ÕZšLê{;*Ïzv$ ¼“©ÖÒj@“ÎÍk?Í ,m˜Ì ƒO´!¯Q*íó&’lê›°¡«J>wØA-vÔ+Ÿ¾wŞêŠœÖß¬?êá¾¬îŞ-.8àÍ˜Xúú	§äöÿğçÎ{ıänˆ2Éå†W×ñÙ¼ş/ÍzíÃöI_Ú| A*¤©˜|òˆW³õş­•_Ú|à”áÏ÷Ûµäùú´—•>GµÆ*Pàcú>’'a¯Mà>šæg£Q$w¹¯ü¾îo}ÂF	Ş:§¯"=½Â=¬AX1WYVkÛ©$HEaÅˆXC‰ƒ+V9õB´öT¶é¨©Ÿ›ŒÂ–‹&Ş}fÕú9OÌ­|áem§Uì˜Sy÷—Ê[·z“ÖÂn%N(ı`nÙ·T¾7_·LÃT’ÕqHşisÊş7AòPeÚT,’²”9½©+rú»]­eÇvùj °r¬Öº±%½*ö|ô’Š²MÕFI¿¾ò6Íd+ª¢ƒ©=ïk}ÆFD*Òo§~Å+îñs;Ä™­Ö:·ë|ÒéïvO_	6#0c)®U¢XS5[fêÅP±A˜	Ë†Yv÷Ï«Û¯G¬ñø•çPLĞí^ÿÑ´ây¿¥ä‘ß°|æÄÜ¶ĞÍ]}ì¼óÇ=QÉnJô"û÷k7´Ìúê¤Z(RLùÕã~ótş­÷~Ğ6ó«“j”ˆWÆlİÎ±Hê–”ìöÔ]*9ıİ©Ç‰ÛìKé;ÖTí
-¦ò•ô¨Ø;ğè%¨Ø ²Òµ‘KÒ·¯üšæÕKÊŠ©Ø`*çc}ÊF*Òoµ7Rª3ÀIL¤dI5U#’Y9ıİ®†À£W£¬"d§¼båäÌ?Uê[f-¯¶L,‰&Í˜.ã-cÄŞÜq$ÂÑ#ÀÛf#+
-À):-ñd ã„ó÷¶Cşº¬zVé¦—·@êı¦C0 $Ù¶JœV`ådt¤ûô/«ÀÄ™)ïÈXå“¡’»E (©76&#3ÿxN	9õ“ôªªü†+ñ‡·i¬åÇÿ‘$5ºR%}ûÊ§i~zeVW¯×û˜µÂqzQyÊªÂ¬W¸w$ræï~÷êG’FùdWC0q¦k¨q¿{2‰Dğl*ÙÁq‡:ƒâ—0`§GÉƒXöÒÊÛï$®@ÜlËÇ|ô¦YÏ@b!l°ÂPá‰B˜}*v<Œ»qÖ'­˜²Ó’t«ğ-O€RKö6C7¯dÊÏF¾’~}åU‘¶^?sì36B"†qW;Ğ¿W½ÕV{kç­¬/:˜.+i?5{YÈ¡x"]D	|{êf ƒ`:ÒR€F[&H;ÁC‰FKW,Á¦²œš¯¬™ÿ~ÛÀ‘[:Jli)Ítä¾˜îj¬Rû†?46†\ğ^îÏ}´c°äÁâq½†ó½W¿ÚxŞVÖ,WjÚUÿëS_<ë ‡sXû‡»|ØQ³.Ÿ÷Ì±å™ÎáŸ™uw]ÿ×¿rÈ]yÁêÏ|ê½9Ïl9eÇù×VwÌQ´íŸáşÙ¥L*z%íÑwÏ]µpÂ3«ğÊš«Hóûá‚Bİ'"Î§Ì{¤O ®e‹n½íâZUE©±€z€mËµŒ’l´%Ø™¨9ñH¦N¦n‚MXc6Œ    IDAT¤S¥ÛÛLR«’‘m¶[B:KB— l	¦ÃÊ!ŞÆ	8`@0A‰‰Y¨36 T‰YDšÁÊvG+&`¥2î-/	o &iÛæ˜’.íD·-Ñ·sÜÒXÌå.Û‘¡Ë:«ø°Wºª’B„¼Mƒ`¸CBılä/éÛW/óú$@înşæØ7l€„„)ß·HHŸ$[¾*|IOm­Ğ®/t6‡FB„¸é}4nÇ$õê…Vk}2	W¿;¾mK•TÚY$DŞ¿oª¡ÊˆVIŠ§TŞ³7É*aÅÉ*²§†œ¼go*©J3«ôX+0o©.¯[S¥9q™*iMqı•K*ê7Tv•f&*#ôš+—Dk? ’jH²ı‰Ûˆd2ÓıÊÃÄ?¶Å`Øİí}ëVÄH+N_wõŠB¶¬KzUôZÎÉ‡Ì<çüóÊËÇM<i÷“&M,¯O¬Fªç§ ÈÖufSM:6ò‘ôë+·
-_’Élª‰l]—Òó¾æØglD_¯¿ñ[$´d²oİJ»»=¹4¶¬ê…N_÷Ød4ÒıÊÃ®†¨Çns­jÈ‡\¢äf(5î‡kÙy)$Ã(®$MO%9gÎ1HÎ-æeüIÖre8‡I¥9e_ş¥Q0.Ò«W…§Í#MGÜÄ9Ì
-VNGjR2i„ÆığabIŠà×[[í±G%Ix¿Ó‚F;ë@ßÏØh”:Ê§-û”J&ƒ•Óe0+¹41î‡K#46©éáióÀ*Y/æ3¼j4l¬İşZëÅµjªû<’t»V‡‹vŸuI+Óªé_šg	•ôÓËéeZ_;–¤WE3Ç¿S¸'!SR=>éöUÆF¾*H€È½ôÍ´ê«Â—$ri©ƒøY	Ç·v_^ySÑ¢+µø5D’¾ù&å¦ü7½L«ş¤Oii'¿ôÕëSg?½ş­»!å´WÎæ§ÙWù×™}IŸÒ|Uø’É³+É„‡fÁnÁr0w|f"eÁî!fã ñ‰œî¢¦³ó	Ëâé¯‚üòHÍåõ•ôØÑê{‚-ƒ}–S(¹0u¿æ;ÈıIï`“Ha4î¬Eg€JR2­6ÜñÃÒÓ.ÕR³xÆšªE ¬&I
-Ùóö³y>•œÅÓÅø“DVg³Š’>ERkyè†üÃ?m”Nƒô(äÀû¯‡§ÍOÎâéô˜­;BU»²x6İÿÛòó¿OIY<½’^½çÚõsÌİı;óÑ¾O
-J©§xsMá?:­‚¢Óø·kÆueJRU_Ò¶>\5ëğäL«±·ÅòO%ë¡Û_o»x;O§ÌŠ4ÆŠÔñ§nFçË…¥4Ûñ~Í*ƒ}Œ¦W}ç•ØvIr’„İX‘Hş¨ÈÙ\LÊ´ªØ“÷ÿÛûòğ:Š+ßsªºï¦{µ[›wy‘ä}Á+C˜5Á	““•d&Löd†I2!y!™á2LÈ@xÄ,1[ ˜`cËX¶¼H²$KÖ¾ïwë®ª÷GËWİ]%éÚÆ¶`îùôù³~:]§ªëTw×©S¿rûÙ(ªıÊcFFÔ ¼)@^nLÆ®ÄÀdŠÖ©4•1¹˜7AÙ¢EòŸR2e%<< p•“«AÉ8c.çM}ñŸ²¼[L«)97rnúëİ;¤äı.©´Ò÷¶¼«‰ÁÁ5p4@‚É1­³Î}ús$yµ>YòËdY<¥i˜2Q=aS0­¦Ó{TF³û‰Ï€i•¢;jGÄ@;ô `b+!ZÏŸçÃıvîV6èÔD2RSNL€¨A@6Øct·":ìö½µİìí˜TÙ6¶H˜‘áx[:íŠh¤çÏ#çk*L¼Û}›’s)@ÆÜ ó??.¢‘1fF»œm¨ºÜEm§aZíC³¬Õ—_šô\@â3JÛèŞdÄ	Örb2ªSVìÏ w¤Zp–±ô"âñ'*ìúòç´m‚ê~’=]Û§uOÖêËÉ$š’	”f«)y/‰ ’Hå H²V_NuÏØËg‘úòçºœ-¨ØjNuëûÎ3åZñC\WTCÓËĞ°óP_  \_AXÇèıÅ5˜µëåã¸¹qî<Í=Ô²]%([¡^?¸•(R‰¼©¢u*M—‰³E¢Ÿ’s#ˆˆœR¥“+@Ä“®5v­Çp©Yœ²‹¸eô±’ÊO­¼Ø…WwÜ]úêÊtwĞğ¨IË$ÎÔbÊoªYYùƒ’âxÃ< 9œ¢|ì¿ëï‚Ó)05ŒŞë"=
-OßÙäÏM¥¦1_¯}²¼}Ág—oûíÁÏù¨ipzÍÂ à¨9ú8_¨1
-p4æ}mı‹—ì¾|'îAq”QP¦1«L¹ )„”œc9«§ &GÑM-¹HãŸ¨Ze‘“\W6í/@İ €o6~}¹/~Û¢=ÓtjŞrdíSû+v¯(záé™Ö/Ş<µ¸Ü¯Å¯>°q‘f|¹" A”ŞH’İS •j€Š˜¤&º™VU¥¥ä½ ˆH\÷gàl„ :¿§0ƒI±`s¨Oa—‰hFr”—Q^¦‰|sà‚´ğÕeW]]öÃ«Ë®º -ƒñ-K6gÿè’Ëfú¢«uãêÒ»®ZxÕ
-İŒÙ¦îÀL9O‡È‡Â+A×!6 ÈcaWkçÜˆº?Ê7‡ú\MSh*L¤ÆĞ{\œıgõÉÉ:
-PsÑÍ¢q“è‹‘^ád‚EBŞy•G†n„hv³ğĞh‰ÂÂ°£şø7<‚Û"'^Ám‘oxZ«ğWñºî[q[äşŞ¬¯Í©ñ?ùüæç.½¯ÎĞ¥AxĞìvÚ%C‡ÿjõM"Fšj\|Ù±öFçàG=mîñfÄŞyÕ¹áQ¡)›H¢÷“ÎŞy•qûd±öF—oô7Õ¸Ãß$£À7Dœ| lÚ¦ëG—¥l×{r§ ÄÀZÃEJWæ_Ào,ÖÃT&…ÒU ¢ğs4±½µ¸vó}ôJ‰e Aà'9-Óa‚óìİ±<1(D°dµk_~`Îb×³„úC4‚Û[A½i›®w-È*4%0¸{"±MaÒi›®ŒÙƒmjPÓG]Ëæ%«A8\ˆ!äãµ©ß0^¨4Ï±!†ş¯kşğÅ7¿8wû·<³ñ˜š;­¬ìÀä@‰LX™S+” *V¥™Ê©{_‹`æ8iÓ“;¹›dât’Vá‚B|ì¨0Æ ®6tˆëQÏO¦7qN­zb‚¡'BP“ŸB´0%)™ú¢!*‚QJR@<ÎÈC%‡geÿ¾é#‘Ï¼şõ6F³5ñøáO4}äÿšÌ£Ñøã‡?‘­	!øã‡?ÑúÑ½XwíÏ+¯zô¢‡(û[.<vÅÏ_¨»,Íûô%óø†êzÕ@JoK¡F•Y'Ÿlƒ€R®XL1lrMÉãÜ4Lù’©.V¹vÈ*¸´7\Ê®…H\« øğ+5_lö,†Æ0B‡*wæ-§¾4»¦9ØƒšŞèËŒÄ)±P7tB¢-ÇzKúŒÑ:fé"»­Ú7}A‹	ıŒRÊ
-Q4sšê`v10á#<jh@`Ù£™†–3ViB‡«öøŠæiÁ¬I@$Ñ–c¾éÆš‡ëhôäNGmGÍá~ON¡}r#>RS\´Ş~ò‡BS2ÑÀñöìË‹†‹fÎ6Œ)Ä¥œ’ID@fzÚ?¾ıŸ>3‹Œ:ª|øÈî´…İ3¦¨9‹w·xógÛ}£ªéØËçUgicûÄ`E0İ¾‘ûÄ><ÿƒÄ´ën¡ĞÜ@:xO~Ö!|£hÆÂÂ“‰CHµÎƒoøf,,"f}ê/ö°ÎêWòæı@ ÀË I¬·'Ò2rÄÉ$:DÒüğ-³¾z¯Êš$8xğßŒ…6„ÔĞ3ó@§‰"‹ŒD[j=9EÂ6Şx,râG.{¢(™@S61Âù¬‚üy¥sâ&PïiôgJÎ›0q! '¿&P0vâG.y´Ç2ëÆMc¤î€·`îèA HxV,°›ÀGv÷|¥‰ÌK‚û	Â=ñ:^iDp³ûiàfRàùà•>ÌFyÉSò“Y9WcÏ„û»‡hÿ”¯ÎöØ·šs9ÛN
-’x™›TûÀ“İ..¸j÷o\q­LÆ®B(öŸ+Z§Ò”\L¤$Ø”¼'e<7P‚I8›4uªHJRr*B \/í$àz;$öm$NŠŒ§v^ìRİH*`—¼ÒêÊ¹è£QãçÖ® ädºM’Ï0—ÁwWmª( ÁE–z}O.„!v~ŸƒN×M(@7ñ–Æšö¶eÙS âñU\“VòÀ~_Áa#L:ú6ffi¢¦7ıæ¶™Ÿ¹%‘~*#j5BÂM5l¸?T¶.1Å'º·âÃÁyw½œ¿bbPQ Õ:v<š{ñß¯ÿ¤·£Ñ×9|löú«Æ¾hÍ¡¾#Ÿ·ôÉÔô	4e#H>«_ŞÅÉIÊ”Œ/ñhøòë¿Rôâğ²cçÙï#¤Zÿ;¯6=üƒeÿõ67â	°w÷Á+õ¬¼DiÂ4*?¿è×uZ(kbÇ"İy*ÿŠÏÛí¶>z~ë_ìíÕP÷ƒîu*-  5+—šxDÒôL›áqÈˆ
-ˆî^Ç6C!„oÍÕÄã›TZÑ3rÈj4-$/ïZ7hMEÓÀb w$b¦¹&!„×ã7Ø“Öà\ô‘ ş`úêK…L!µ%Ó°çì«ãˆD·ÎŠ·y3„³iøÈî›[Ègø›è^ş^¦& uø›hnÄ'Õt™ò±xãü¿øƒ™¥¥¥©±4pÎss²ùóg¾8°Ìcó¶³ÜG I}	HtwEºÇ‘ºÃßıDûzF¼:Ëş¶ÂĞÎ>ş¾+Z—\ø 3—.]ºråJùO)±ËĞà@Ÿ)åzı>œA2,¼ 21([áB`œéUJÆ“Ô»(ùß–‘¨¤Ö‘’bmGúßåg,øşô-y‰ ¹©H¨‚¢×:²Á­é^*5¨.MawP.P¶‹J‰œ Ğt›H¡3—³İG €Dq-yÑ	MTØ•"†ºF†\[ÍûÊ_bÎıç€hôwšÃı®}à#Gì‘5ˆh÷ıî-îß0z’ åI´µÎµÕœÇÂñ®&ç]@nDûÊ_r†LšÊ†¤äŒäô’xOëĞÑ=±„$ŞÕäæ]¼¯ü%7Q‡
-œE[ë\v»€Ó74ğ¦y<º36-ü3K‰îu©/„¸4=YùbB¤“NF‹2
-Îˆ$ñø@ó8cÚÂWTL|d@— ¡¥g;Ÿ5¦¹È%RÍ?³ÔùÔQhªL¤äåô‘ 7¦s« i¨éN+èŸYŠT›D$Zz¶Ën(;ß²×P÷k‰­£ŠÜ›7SÚ'ˆ7pÀ¤'öD™éÁÜÎt„¨ÀjS[¬ZzvÂF'wÌ©Z”[û\ÃºÇº!Ãv‰îuçYîÉ)I€Âne	fÊ„èÔ¯X£[§Ğ”M¤äåô‘Ô¤¶óöFAÈıi¨pòq@wµ…ğ†²ÁB´‚ M“„<-©0µİk·—åíè	/²H½4ûïÊOïÊ<÷n
-íÜp×Ö×ĞÁ4íä¥yîi*=¸j}}ÿ›]İù™(G!åïÑäÁ$¥	UëÆ©Œƒ;æ}9o>k" A’c—³ÙG‚IšÇ®$’MÙX¥,Öø]~ûòøª7o Í ˆúÄ§èİoÚ×6ë7Ã½pÇboÌƒ {8,"¼2ê dH“@ ("\Ø.  ÷ 0[9™AØ  ƒ-pò:CAëè—”$/ø¾ÚaâŸ“¢q½F5]0æf·B’IAš±Z3 'À~¶§zazSKÓÜçVy©ñÀ‰’êï„éÌ9V”Ö÷Û‹*… zş.4piA=ãôÉ–ÕqÏ"¯ñ£YÕ ØïN”=ñoñG~0³ê“U«oŸ~b~zÇã'ÊÅ½ÖXBMÆ„ûEO…óDdåLˆè^GçYYÓe‚N­qı^ €Ø“ÎrÇC"¥;!q`É²jîó‘xgí@O«#(¡éµ?ÿ¶Ñßáˆ¥2Ò|Ììm±ƒ¹:Şü»šEåÀh†gä³+ÖgêøÎŸÿÜ~ÍmsÒ;Ã¦—Îmf™G~:"¼\K‹Ÿêeô(×¿_üã¾æêxè¶ÕÿótÙŞª¸gãÌ—:®¸eõ´ºŞXğËŸ«dÔªÌ‰ßİi?n’ ¥=»·Ÿ„öÜé¸õˆæpÿĞ±
-W´…‡kşmÇ}QiÊ&Ro£3”sĞGHÈğñC­Ï?dÏ¬CB†U¸Î‚³ÚŸ›…‡'M£ÿàN{)=¶ëypÙ	j>Ju×T>0§İ İ‹š3ñY d…˜ €|gç\ à “Ÿöo‡{g|îØ²Ã Qîï'lZ ÷…Úë:È	6ÜTsñß×.ÎÔÍLoªŠúZ‡Jú#³wu,¸éØ’ì@XüÆBxógİëŒë€Êrír ë»	¥¾€+^€„æ”¹†…BS6‘z#†œÛ>¨×ïÍ.tX@}iq	sÊ¤åˆH!×X„2]Õ0{F(¦¹˜V§_ó%‰iUògQoÔ¢œığ–n$â@Ô­W¸à³Ö­üşÇ¯³ëó#µ1? tæ”^şõôçöw,ûBíÒ¼±ƒŠÀ…0½8ã 	AÁK£_İóÙjS	AF­pVğ¡­îÊ¹äBÁÙØ÷·¡+\ìYZ ]KËp3­úÒ¦_ó%×«_¡)™HÑ¬²¸æHg¿ „¿h~`ÆBÁLïÌÂH@J§_ó¥ÑÚ‰AM·ªmkŸ±ôBà1ûa.dÊ8P3­Ê_™Ã‚ü ·¹¾o¹ıC8S˜õæ~­âêm›×‡@éËóŞü¯#W.Î=ö@ñÑ6N-®[ ÈÑÌ,)Æ ®Œœ†¨H;#¦Uék^º(%“Šë¦í> Á•ÒòÅ)0­ÊÕ–ìÚÊı£Lh`èå†^nèUQïuó_?Ò3G'"Ì( ô0
- MŒÆ‚U#N_>~Åƒ™ÿXqÕù•}€Š&:Å8% 0¡u›z¯@à„XŠg$%STäÏ|,’QçŸ”ä¦¹öÀÒKò·Uoê'È € ;Ôµ¶¼?Ïàøõ¥ÛàŞe/ıÍŞ-—Ş5CO~ãÀHè·‹÷À'—Üÿ¥ã? ‹óWiåª?]ÑqQİeÿ!€ïoÛüvç‚ë3û—Ş½-ØúøÑëL†Å9ß}¼ìoş©vyeÊ‹‚WUq²•fêÇaZ•4%\Ãˆ3&¯†¥D–qVcÎrt¯éÃ)1­º«-çÚáÃ¯¿¥İ7#Ã©¯ôÍ#Ÿ]Óˆ½Ûœvr !äH{ëÒ‚Bø0ÇFéºšpÚLÆy3'Å”ÀA®gv7	ÎÛ9	 ¤Ñfò¸–ÑË!ˆ"„¢trâhÎ´-jdda:"	Ÿ¨òæ9§c]Í^ûîHÄxo‡‘kŸ)r#Î"ÃzF#­É4ÂÍ5Ù‹ìë
-MÉD¯À¯ú»7åtÍ·Ğ4Sôv“"„iæÌWF.Hlì;û}dmS7†zıEóí,¼Æ@õ¤ª"Üx$0c¡=~¦97º=öœ Ä¶æo/,¬Ê cûxWmOOöôÀ7/!ÚÑon\ü`¥/¶i•DškH0söô6:Rš÷ÆcŞë¿+¢X©qBô¦×Ÿqıw…à%”€ X¥‹†×G¶~G +  Ü¾&c¸ßWº¶FÄœ©ã¾o¬Î¸çMß¼ås‰i}¢¦ùÚšÒ{ŞÎ[n#Ğ:şüÄ¬ë¿+x‚‚öî{eÚE%ÿèx³¦u9k®°3­š‘á£ßÜ¸êİKª4e-Œ/;}Å‚¹*·I‰BÂılû’ÎA!’¡ºƒM¿ÿé²;w“%ÀÁšòĞ¼cœ€‚™G¿¹qùccôã€Üˆõî{¥`óglL«ZË«¿‡Òr¤ä=òvßÛµi®süt¯`†{ñ‹P !­ˆé®ãôdD­F º^ßD÷
-f&ªì&Ë´J4i;±z³ÛDƒa3OZ\ ;CØg¿P$”;wU+¦*ã˜PÛ•˜V‡ˆş÷¡HU¦æØjB q4ØÚİíNî\rsrD	
- \ Ò®º2
-»Ü)P‚Ë•f<)MÉD™ ©>ıS’¤œı>Á“Ô—KSšPÛuDØGíÊÙw©¸nJRr¦’Ú¸–’”¼¢!@Ü§&O˜ñ¤æHšî¦>’µÚÎ‘ä•TO„¸’‘è^Mª)›ˆ H±èO%i2Œ5ÎÃ‘R$4Á™ —è¸<^nÄ’e:.BupL¢±ã{zº§åÏ)±3­î¾\_öß‡ü…síL«‡wi¡¬´Y%v¦Õúm·ßx«iÕ…¨Õ9Qmõe,Ş`'Uİ}…gÑ½o†¬šTHµÖçÎßôI;‹g¼¯c¨z_îÆÛY<ÁŞı7ÌZóLŸÅSÖ”MD\®[>òWA<"•x7$¹æ_(xÖKHµŞò—ëîûúÚÇjìL«İo=*YíÉÊOô¸0·¯­üİ	=±5pÇ"í/ş¾èê/Ú}ãèÃ·â·`O ÇGşÒxkg ÀçO<¡‘‘¦j_Ş,¢ÛøMYx©6» $ñŞ6Ov¡-f/!jy<"˜Ic{‘pk'3ŸúÓ&UvÑèÖCYöäta,ÖBí‚™‘öãéóísC…¦d"‚äÊH}ißÎcõ'¨FS{gÏ¯˜¦¹jåò]ı·¹/ÇÖ&V}Í‘sdÀŸ7ÛOê§¾€3åZ„[jıs¬JPpc¨OÏÈµûFgOû×çæMG[ÔÎÒ¼ûwà<mf‰àÂ•N!Å>p×˜‘5(ˆÇïZ¨œŠæ¹’” Ê®p4Õj¯¦»F  ÕÒf–È¨nMeC #‘È'¯¿~ùòå’ó-ÑHdØt~¡¥eèi™Âé²  ìjĞ¢,vú†?» DÜş,ÖÀòQw´PÅ¨|Ë‡ŠD%¨ø>R“¹ª+#ÛUVO&Û:eC RiSDLÓpv£¹Õ2(_~*Î6¹oŒ”Š€O*©[4eåÜwlQCB¡ˆR,NŞ¼€@Ú¯+íÂUl'V‚‚LÉÏyR`2vÏp³³@ÄÔ¤))N‚Ós³Õœ
-èŒãñ#} (N
-R­ééÿ4{ì  F;â}¾ƒo ! j5Àx_g´£Ğa·í¥ßÄºš'"¬ÙÇMC œ4æÈàpãQ@»]`‘‘¦§ÿSp6‰¦l"]˜šb÷4$#ÍÇ:wş? Ô75GÇtgMOÿ'‹ŒL
-rÓ¬ÙçòÖ;İ[Íù`{x¨_ØŸµ„6?x³92è c=íÆPŸDÒ[ñµƒŒ¨@`õÅzÚ/I$÷ü}¬¿+P²‹Cµ3î. X,n­wì¿`ñhóƒ7ëêñ5u–ŞÆ)™â\ò‰vœhøõ¿ºH Â­õ,¶…°@pŞüàÍ,dæPí·oìİåäøÈ_NükW ßç³ë…›k|y3‰îµk²ÈJ¼~{ã½íìçv'2ÈcÁ™ss‰´Õ{2ó¨/m2Pa×èÖ‚Y}ÓàêğwC hıÖ(4% —Gëg·¼¸îÂ‹W¯^)9ß2<4ß´Wâëm;5Ì‘sdĞ—7œáoâ{ø[ˆpk¿`3Ò­ çæ°+ü]=_™›}4d£/¨{}ÌÁÓf–€àÂÉ4¡BÕLë5Æ¦
-Å„åç:¦Bx]È8 õÀd ‚Šæ¹íªA©@!<Ó¬ò˜	İCu¯‹Ç‹hºÜ:…¦d"Åk7EÅş®BOËÔƒ™.ßĞCY.ß@Bd7P‚„ROÆ4—oø³@Ä@Œ @fZU%z×0í…,ÎŞ=ÏG”ÄÿÚ|ùõµ+7èÎ‰»pçtJ&Ô	æjP.P(Ô¤óq”5&T§g¤d
-ˆ›‚R€Pt.œ‰³I¾B€“pÛ™¨4¡Ì%ì¶#—ÿdYdå[ŸÍN›¿ÿ‰ùûo9¾<°ˆÀ
-ÃÈ­qµËĞA@‘Mx/£ °Á€&F›™6ƒš3)Ûmê‚“Eš1(0—pÿ£VMIJ’—“¬WNAM—¿HHHã¹®tcƒ7öéê>0ûÅ:F"7¦‰-ZãÅwí2»ıÄÅÿn^»¤ãCÿòÔ’WØµ¥b‹¶+æ­cÚ/î[´_,Ü½+î?´á7b‹öÑ¬®ÿ.Ûù‘¬®ˆ@¤šâ,%(£:•ç2¹ÙùÆÑ”Lô©/Hˆ3ëgTø³ÒÉÕ/;›Ûaİ‘¾$ˆ(¬¢iOÜeöØA$n?ÎúÛ9h'œì2ôçVì|ì¾%ÑÆÉÖ¹oışÈîê¾u·ŞĞÈË×P¬úkóµÏ5¯ X[ñ6€¡<  UIDATk<Ñ‚`Ûã‡ßÎKëŞix¶¼°²ãW_]ú`ºwààp†W§-Ï?ëjrUFRÚ[ñ¡t¬z”TíÌ@„“ °ğàpÃa$dLG‡¸›XS6 ˜JSQ„ÍKÉHSuÇëOÚÁá†Ã,<hïq¬á‰»xtxRP0c jR‡o´ì¨ãH2‚	îÚ} fx@æznÆ¹(ÖüvşşÛ‹÷?6ïÀ¦9~çué„ë(®]hİ¡¾Ù2^ÍDñx[1 ü©­äî¶" 8Øü…Y„ùoš~CåZÎÒÃßkœw°{‰Oïj*Ú÷j XtX:pW
-3î®3 \ù\pÜ_ŒÂ$¡)›H¢©)v×ÀM;şBpÓ•êisƒÉA‰:A03æòÜ¶§ïÎNO6LÙ` «Ç~¶ö?¯û˜‡˜ aú’Ü¦Ïü`:òÕşğ/øE@ï|¹ñÆï[<K3?™bå´ª‘¼xÚ›}s*†½½‚ü`fÕ¥sşTúÓõ¯>·;æ»ş¦áÜo¶oÔŒQ»œ¼åI%öt s­* ¢›İÏÊl`Æ¤š.$›#õ³Z^J…¿§ˆŒ†¿_o´ª‚RfÃèy%‹ïÁL¤.FÈ¢}69¢og‘ÃÌ”w®Ew¸øÍĞL hæô©ÀàfW}¾~Ùkîœ¾ã'÷WÏJëöd@¿ÖTz¼ø9Ÿ½óğÕÇâ^y#k÷ÍŞñıw>0ÓGø  â¡|=QÙUƒ\±/d^a¡:î†™˜Œ¦ÓE"OÕRrşÅ5Ç„D±prs‘LŞÙœŒÊ €’ûi£yfIvAfû">mäÆŒş 5 Êéìôß¯¼F£| :ı³9}ÙŞ5 AX¢ÏÕ_»<·¦*îÎ c‚Ì·5·_ -òF?$hÈ3Â]î5mŠGíR±ï©)çã&ıg²ğ7"±’ìà;¦öÊêËòÿ×#›¾<¦ù±!^FÍ_İò«e·ıKœeÖW]XD™Å‰pú*d=‚¤£Ğ„x5ø»È´ß]šõ\Íë_[ò˜É}ós¾ %Ù\²÷S‹4S™;(qv*X<Õ "ò‰$
-B˜¦Á•™ö)9÷‚ªè*:y7HÚ7Üß&šˆ‡¹èõÚ•"Şì|¢yìªkùà_û±×{Gbİ—\i¶h$‡
-Q	}êÕ¾°ĞØ`÷Æ GÀZ¦ı~Ñ“×ï¹iÆÍÁ=#w¡Æî©»p[C_Ó½µ‹ã¡Àç Ä£¥CB£]Íz(‹:²ˆ
-Dc Û•µaõiiév.YÁL‹htûA0éiöO›áÈÁ“5%L@VĞ¿ú‚µsæÌéîîvßë”œ{œüà˜˜ ‹›‘ao=Íğ õú]Ù@‘Î¾œ"ÇX*Pnèc”‘ ˆñşHwœõ¢±æƒıı…¹sKÇ8t½üs%«>˜^lçl×Ve§Í.ÓÔôÖ'¼ğ¦;À4L€Ú˜—júÁßŞ¿êşïÎN½txŸA/òCíÿÜ³ğ¦;7úé6½!-MÍÆPoæ’¿œQRmïgæ/û73J.ãlĞ RíøÿÜ³ğ¦;l$´íµ'§oş´Å36Ğ=ptOşEup6÷—®äÂgû‘z&Ğ”Mt3±¾lö…sŠ“îç”œu‰š "6æá”öz«êÿ\û—gíÙÿZFÙZïXæ$
-f”®dİM6d5Èã±¶×œuí?Œ1­Ríğ÷Àw~`#&Ù¶§ÿgİŞL‹æÜ”öç A©¹÷~PmgŒt^ò½—®/Î8ññ×Ì¥¦B	 {C"ÑtÁY2 Ê®›)AææDDªsfL®)™èáp4E ?•$ˆ°ÂÅ"D(Âİ”UÔ®‰H¨.˜‘(3L…‰öé´È‘ ¼M¼'£vÀ	 q­ës­‘ã7¿àn5ÁWkâá#_›èÿ?G¯œ£q‚D¡6ÚB—]¦°«v*òá„Â.7I2š’‰\BNUJÎ…È™”À™ÛŸ­ô;KkR pû
-ˆÂlu9CI#â©Ş"£§(:Åcq§"©¸]JNŠÛ4p6ö€YáÁ÷Ï0JIJNŠàŠãi@ˆü*Cª.s6àÉ2lØq6H¥É§ŒÊ¢8¢P>ˆ
-ÔçeÈš²‰6&Må9’ê–7Q®FœÁy:-Bî
-–'yl
-€Âµ¡®ï8uÔ†ûs3§…‰¦W=ğ½9ÿ¦'sÚQ#’‘–Zêxs
-Ç@J»vÿiÚú+S1Qƒˆ±6§MŸ?vÜ¦â®ü‹>(˜3	(Û%´·òÍŒ’ˆ6‹3‡û#'Òç¬ˆ,<\÷Û;|áV$Úš²‰v÷,Ğ¯œOÃÑøT¤AAˆF¢”R¯ÏËÙù^éBˆFcÁ´´©@]FÙõæ_¾×¿ØÊÂD€›5ÿıÃyŸúaB›ñêòì¥cÓ»vÀ¥›ì¬Å¸moÿ==şÌ$ríÎ	‹.8K
-TÛuZ8‹9©¦ËD3ƒ_”h—ccc“ëœ© ”ĞŠŠıYÙÙe¥eCCCçw¤SBª¼è¢twwŸßš  âW¿¼çõ5ß7Ó2Ğ¶¸„š&9ù8 tgµÒÂ‡ÓÄ±¨à™;‚ÅãªÕÌªšSLi‘WF” P”&Tv•`Rv(Ö ğxrš‰ @ü€ÏNq15„RHZŸ™YYç·2„´`H ÒÒ<ÏäœMBªH„m 	•“wû†0\»
-4 ğ.GíŞ÷"¦Ê×ÿ˜Ø«4¥ªwŞ+sn*`´)tß§¬Œ=ÊÎ·g¤d
-ŠH¡RŞ€(›âQ;$DæD”òAqÜRÓe‚ ¤V’Ş»‚Ò:«â@­ñ@Éµ¡ †]ğŞ¦h—}™©vbûCÆ`¯‹/ÚÙwiÚ[ù–}G»Œ¨AÄxW´³É>/Aªµ¾òD¬»urPa—«pD324ÒTãâ
-d±ğ‰í9î‹JSÙ”¼oDp~bûC,vä.+Af«pùF§äÉ(ğŠ€ó$Vô¡OÏu”…7»Àµ8 8ÏX¸Âî”2¢-ª1!ì/ÁYŞÆ«‰îITØÎ.u¥÷j¾ -˜í²K=¾¢}Ò1ºTšÊ†¤ä}#HHÑ‡>IN®©œ]êòœ…+]ôPÍ:ÓrÂqª—­D©>Âq™QƒŠ‡½ÔpÛU‚ª]›>,¨)X„­Sh*2‘Pêhç|ŠÌ¦ÑÊ=BpÎõ<Ç5LTcë„D´êyzV(¥I^®tr%(¹– /ˆ˜ÒÔËÏ§peMåµÉx
-•9H¶uÎ‘?¡*¥´²²’RÊ3MSÓ´²²2b‚p^ûûû›››)¥„Å‹8p€R‡KJJÒÒÒÎM‘s~àÀÇcıîÜ¹~¿ßÁiJH]]],óz½óæÍ;±$„Ø»woZZZYY™|9º¢ÓgèùN‡ Ö4;õ“ÌÏƒ	ûúúÖ­[÷Ç?ş1nÜ¸ñÑGÕ4Údôbıšx<#¢KG¾*ñ«”×<¹ø|¾ûï¿ıúõ†a$ê™““c•°nÍÆ©S\
-‰ÿØk•L•4Mûå/YSSsÍ5×¬[·nÃ†.s–Úúõëò“Ÿhš–Ì½rU‰Rš™™İæÅh÷½kÎ ù‚¦öL:QJÖT^›dÉ_›¤]åY’šÉß ë sçÎ-))€·ß~û+_ùÊ«¯¾ªišaBˆ‹/¾ ZZZªªªt]Ÿ9sæÂ…c±cìõ×_ Ã0®¸â
-!Äk¯½f RTT´xñb 8|øpkk+ç¼¬¬lúôéÉ?­…¡PhÁ‚ P\\LY¸p! ”––F" ˆF£o½õ–Ïç[¶lY,;pà€õšŠÇãùùùK–,ikk«ªªJ¼Í¬—mvv6"¾öÚk¦i&S%D|ê©§î¼óÎcÇmß¾]‘‘‘¡ëzyyyOO5†7oŞ<}út ÈÈÈ  MÓêëëëêê±´´töìÙñx<îŞ½ (¥üàGFFŞzë-JéªU«rssËËË#‘H ˜5k–òf¸êtÎæV!`D3Ğ.„Äûº€3tŠ0â‚™.M62ˆ£i¯ã ã€‚™Âˆ»ÔŒaº+£¥	‹Œ`"Ê‰ˆˆÀ9G\­ !â}]ˆ“iJ&Nû¶¾R;;;ÀWiii›7onhh°ÆÃÀÀ@iiéâÅ‹ËËË—-[ö½ï}/Üzë­CCC+V¬Xºt)!äá‡nhhXµjÕš5kÖ®][[[[SS³víÚ5kÖ¬X±"33ó4>Æ¬K~ñ‹_Ü{ï½=ôØ¦(gÆŒW^yå¦M›rrrJJJ6oŞ|Ë-·PJ¯»îºêêêœœœ?şñW^y¥¢±±ñÊ+¯liiñx<<ğ@CCÃÊ•+“©’iš¿úÕ¯|òÉmÛ¶}üãßºuknnîŞ½{o»í¶5kÖ¬^½zÏ=O?ı´ı½İÚÚºlÙ²uëÖ-^¼¸´´ô{î	ŸúÔ§(¥Ë—//))áœ{<‚‚‚x<~Ùe—mß¾}æÌ™—]vÙİwßíš¯‚Ó1¬>÷uY{Ø&XdÑáäfxœş@øH¿±£Hh_å_YÔDc¨E†šˆá¶ã8!¢YdØêsÚ%ÕûŒ‘ÉAÙ.ÁhW³ce	‘±X_':Qf¼¯ò¯‚‹‰5•Iféøñã•••Û·oÿçşçx<>mÚ4 ¸é¦›²³³9çŒ1 (((ÈËË€gy 6mÚTYYÙØØ8cÆ hkkkhh(/////€H$2mÚ´n¸áí·ß®©©	…B§=«ùò—¿ü­o}ë‹_üb¡”îØ±ã…^XºtiuuµÏç+(( €gŸ}vóæÍMMM‘HÄï÷€®ëùùù @áœ¯Y³æwŞ	…B@`Ò*qÎgÎœyß}÷¥§§ÿû¿ÿûÓO?=00‡kkk­–¶´´twwÛox<€òòòıû÷À‘#G à†n¨¨¨èèè(,,$„ìØ±ãÙgŸ<zôhgggvv6 „B!É¾»z‚‹¾Ê¿
-3n÷«q@íj¶gW"âPëqWF™F³
-½$à.3³ğ’¿u¯
-áÍ-´şc³Á3®”¢Æ+Uáï•îğwz¶»4Æò6\å²«UvCsÊÜ‘nZš?è:ƒxı…—ü­cÅI¥©lH2²lÙ²Ë/¿Ü0ÆØØ‰€¦)lg[$ğP(Ä[½zõ–-[¬éiš^¯÷Î;ï¼ûî»-eÆX^^Ş¬Y³>ö±mİºõ’K.9í”jÃ0LÓ´_NÙ¶mÛøÃ;wVVV&*Çj	lYœóåË—?úè£·İv›ÏçK¦J„x<~á…–••@UU¥´¶¶öÚk¯µ\gÅ[·ë#ùˆõk8fŒ­_¿~Ñ¢E™™™+V¬`ŒmÛ¶í;ßùÎœ9s¬ò“Ä !²“«Aª¹\Ë
-wğ¹jBpÌ}ª¹¼%Ô9‰AFÔ ²4•]5˜Œ]å}BÈ»TšRbâPabBlîà¤+Øÿ“Ğ´”Oœ8 ¡Pè¶Ûn{ñÅï»ï¾o|ãápø;î¸ì²ËLÓ¤”†±uëÖ;î¸c×®]G-..>¥ˆŒ;»şÅ“ôDëMHÌæ­?†aVªu­¦i÷Ş{ï<°eË–L\%MÓ~úéÕ«Wëú-*clÃ†÷ß¿a”ÒôôtëmÅ,Óû÷ï·şjM5óóóo¾ùæ—_~ÙãñÜxã–š¥™hQâöÚïÁÉî³?£ÏÄÙÜD®]êgÒ˜` B: CCC‰‘c¹WCCƒÕµ^¯wåÊ•ûöí;tèĞÅ_üÓŸşTQWWgFuuu<B¬Y³f``À4MD\·nİàà`___OOUÎ©…±··×ú:ª®®¦”ZõÜ»wïÈÈˆâšk®©¨¨xå•Wìõ<pàÀ¾}û–.]š““Ã9_¿~ıÖ­[wìØ±eË 8xğ`SSSCCƒišÑh4™÷ !ä×¿şõâÅ‹wíÚõÕ¯~õg?û™ßï/((ƒÖCç{î9~|ô[º¢¢bÏ=iii `šf8¾ñÆ+**4M;vìX,ëìì4ƒsnUşÀVàÍ7ßìèè>ËÏ’Kœ¼Ïîí½ĞŸJ"›LÚ˜¸{¾~ù,èèê‘·QBêëë)¥¦iZ+$ˆ‹ÅZ[[@~~¾‚200ĞÑÑ¡iZfff^^išŒ±P(4}úôX,F)=vì˜õ ÍÈÈ(,,hkkóz½º®Ï˜1CùE)İ»w¯ßï/))±?qxx¸««ËzÃÌ;·¶¶–RFgÎœiÕ³¾¾^×u!D ÈËËKOOóÍ7ƒÁ`0ÌÏÏgŒéº>88ØÖÖf½OÃHOO7Msdddşüù„æ$Ù¡”VTT¬\¹2‰X—BZZZLÓ4cÆŒÁ`ĞzÏ455…Ãa«¥¥¥±XìÄ‰Ö}+))éííµ(óóó³³³cµµµ„ëÖY“¨úúzëõhİùÎÎN!Dfff""„øù]·ıeÃ?sÇ~¤3’°€Oâ‡|öıHˆ	:7W$Ë7©Ï0„,xºvOi•¢µ~ î	Îyqñ(å]âcCáõz‹‹‹ç<==İ
-ïZ!f °>ñ ‹ clşüù‰’MÓƒVÌÚúUYñDóoÓ4åzZæ¬w—ˆooo_¹re^^5BÃöZ%¦|‰ÊÄÂ9·BÛö†›¦™  #¢í´.ÉÊÊ²âBëóÒªC¢„’(Ùº™öyõëTGÒê0­Ëìˆ0¢ÌŒ».‹ö¶KùÑÀcQ] šÃxšä¦ÁcQ—Z¼¿›ÇcÉ€Rh†‡\­Œ±hØjœG{Û]ãA¡)™‰Æ~R\[ƒ”ˆL\(e‰KN/qÆu¹\ÏÄ¯·ß~û§?ıéûî»¯±±q¼B,åS­òş¸Zêºãİ«ñJõOŠÌe%¢½íR0I
-a†‡\¾aŒºüŠğáşxxXœÄB@Òsğ-32b@l°×94†[ëaBD˜á¡Ø`¯Ó.öUí‹õOÊv"Íœ™v³,öv8Z!€±ƒoqÆ'ÖT6äİù,˜ªÂ9/))yõÕW|ğÁ;v¬Y³&™WÍ{F)8ã=ßbFL˜4#Í€ßh©w½4šUè£~Wø»è’ë€3‡çáÏ-²ª3†q¹p•=¦!#jPOz6 :"ÎŒåo¸8ŸTÙÍ)Ü>ÔŸ–:0‚zıE—\çÜs¢ĞT6ä}/œóÄ'ÓûO0„]rşVT—Ãß¹WØ× "‰?FWuİ•‘ƒ!•©ŠÜT‚ÌÛª$sU€ª‘(òávONÓa‚
-1Á)%S[‚„8‚‚ãh%LÊ¾!¬ì½±Ò€|æVJ”’ºO)ÙRTÖ§*h_.œ:2áräÿŞÊ âéEh&wïk€Äõ’ ¢é\âµC$$^;é,WÅé®Js$ @MÆ’e»*ZTñÚªÉáGYS6¡QDœhl˜‚t\„¡ÁŒôP__ï°mEø¼2Ğß Ÿ:. ®xa(\íù2AÕ œûÌöc‘h^ú´1şT¢é•ÿùù[¿åÍÊ+ÉHó1êør‹ ÚşÖ¯#¡”5ˆíneÑpÚŒ`#U=öØO‹>øÑ@áÜI@•İî;³Ê.ÛÌˆhõ‡Û3í;ÆÍğĞ‘Go_ô¥ŸŒ&¥Ò”Mäèäé}Çö>³³¾­Û=¥œ¢Q’QÓ‹Ç‡Â‘óşJ¾SßÕÜŞu~‡4  ¢f4J[Uc‡~şİ’Ïÿ‹%üY	r3Ş{hWîò‹ìÎÖôÖŸpÓ&€±À>ºoàÁá´ û|$3‰Ü‰ hPOûDÀõ!š.¤—ç$3­º92O¾‘d¦Uù|$·	‰TŸÂ3%Š=gçK˜ :5ª‚”™Î´$š&½|Ô Ì´%ÚÇ<#•æ`ZÀ\VœÅ Ü"¬ÁærğI‘q@.¤Ò”vÕ•‘í
-•]) 8S€²¦lB®3·KRt˜b1N·_)˜ƒ• Ê7p½{Ş­J¦$%ÿ›Äı„H¤”¤ä]ˆbµ|+€:yT&¡T1ª@uiT·İq@¹@ÅQHê¤UÕ,NÖTÖY9éJÒÄ8vås™’»W©>:}Dˆ;dy_{|Ğ¹å›j­¯?#g£ÆzÚA÷æğşšNJ7¢Á¾XO»Ó.íxû¥X_çä Êîpcµ‹i•EÃá¶F×Vs¶¾şŒ‹iUÖT˜@éhî®Øé`xEnktmËœ·¾ş‹G'™9ÜX=ÉTŞùT×>ê­© ç¤[¾|Ë~ú¨ĞÓÒµ´tç½F¤”è±#õx‰Ç71¢‘âñªÛAÍÔÓÒ]L”JP.è:õø}‰H=^Ô&QeêiAûŒR©é6@4MfPŸß	êD÷8ù@fèi!'›…Dâñİ;aÓ”w>ÕG*çª¸î]Ğ:©hAmiİŞ‹6nÀG÷õ?v‡¿‘Ò­ÒepRd<5EiJ»ãTfÒÇ«°õ¢OFSeBZDVÚUš8#»Éİ«T“>Š"ù¨'R©s[ø¬Y’‚ÚW¹”&ƒÉ § *íªÀÓ®^òcB™}ûn6äŒîUªÎ~òª:”¤$%g,šµQ¸ãâÉï5•×&Y`ò×‰İÓ.Ğz{»JIõÑxœm»¤ÍçÀ C'µ1‡¸Á@¸AÁb“"J!Ù5"I‚*»qá0¸á¶‚ÇÃ2(k*êÌMaF%Ğ §İ“70	„`ñ$î•âÎ§úè<ö7ãnÎÖÛpœ)†šÖøüoŒ!Wh•DºZã=MBû”»s!j1>Ğé’Î{í™hOÇä Â.¬?Ì]¡ÕÈÈps½+¤Ëc‘Æçãâd•5•&Âm»_¶Ç¦áæzæ¤ªœ5>ÿ‹L
-rfÖØ®úÎ§úè¼öQ—|µà‘HZÚûòèKD”8€ˆD:úR¥©0º“eÕ»K’oˆ¼Zzú÷*ÕGç¦b„~„ÔlQ;!¸BbZUq>©¶²½ÛL«
-»jPaWÉŸ*YBQ JSaBpP´C±oìTâ¾üLîUªÎUqWf{*j—’”¼’H)IÉ» ÿªòÖ­    IEND®B`‚
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: image/jpeg
-Content-Transfer-Encoding: binary
-Content-Location: http://1.bp.blogspot.com/-uHxGizMbaxY/XL6P09aZcoI/AAAAAAAADSY/uk3OwtvTUsoNuUNiHCJiVRFkxcYDnmcuACK4BGAYYCw/s35/b82b658d-4a97-4b27-9c6f-066e84d3505b
-
-ÿØÿà JFIF      ÿá *Exif  II*     1           Google  ÿÛ „ 
-
-
-	
-ÿÀ  # # ÿÄ                	ÿÄ 0        !1A"Qa#2q‘ÁÑ3RÿÄ             ÿÄ ,         !1AQ"‘2a¡ÁğBRqÿÚ   ? é"5™Å¹”š¥e»ŠŒÃ½V&29KÌ“”œûU•Üm·q…÷¥G–Œ†Ôæ«İµ¨õjMCj=1Èê`2”Œ`§Çë¥1Ü°mGš`Öà4‡^É£\QÄ	´Ê-’¤òR®Ü aáYÏ}2ê!–†ht©=*ÑçÓ&\ö}D:‡(sz*iIÜnFGĞã›ÆÇQ¼´ıÃ£ŠÌÎÅ*œE 9Ü¦·>Ñƒüj"Ázš€…ñ½s…—EB¦Ê‹•8×Q§ê­ÅcÉQ ¨²/ÍiÕÏ$ÓÛ†J«]×ä³%·TÌØÛ´æŞÒÇCqŠe‚µ‘¦ı¿Äê•ŸQ¬¸H,IK±ƒKÈê<•}?Š@\–ÅW#g…­áÅy¼õN‰ÂQî;j+ÏÀç ®J
-ÚG»tÒ3Ø‚~4úıH»ÖVåRŸ›Vsş±/×åÊ]>Áõ?®èŒã“š
-[Ad Ÿ¼îRÚ¥™sñcW{Rs†˜—oÁ®ÜÔ†ÖüVÑÕ} ‚ûŸï@LÎ™ÑÅ3@„‚Ôa.î¤ØÜB§ÇÃßf–VáY9lyùĞ:Ky¨ÕaÀ¦uw‹ÛH‹Zvœêhªt2£%)çA$¯	Qö«>p~@Ô‚•ÒàìMñê"n)pÊÿ f’ìª+"ÇØs•ÎªÔÂ
-s‘ÎVârpœ¨rR»Œ8¬åú%	ª*ÜâU¦Õ
-
-$U©± ¦NÙÿ “»~›ï¢ƒde¹¥‘6” ìh"òãÕ³cZ2ÑP}ˆñ‹%%ÂH#ÕCqŠzÊECô‹–¡]ºÑş.µö¨AÒ°Ğq¶\l”áÂÚù“ŒÏBÔr´DRé>j}É™L§YÒ¥VÜŒüÄ³”ıâŸ¾RWİGğùk…c¦5ÀëQš}ÆF>ô7zúœ¢p‘õP¦²ÕäÌºjlSÔŠó.$©-¼H
-m{@§™$5Å¡øO¥#7KrF7ç±õö¥ÊısKµZ‰G“Ã;^ãzV5YQqÙ 4œ)j'%XÀ$üv´kZÃÉª!i$@ÚG·m»Ò›Õ…v{÷LH®JqQ°WÒ'Ûœñ¡mTI¦·LA¯à>;òW5Öƒ’ZÄt){„¶¤º¥S¶å	ñã‰ÓI&{KiÚ‚W„Œÿ ™ëŠå”),ÑM ÉGgpñàã9n§5àË5¤Gaeêìh ÊRÓD­$ Èıˆ`€u·¾Úıa…°®‘ı¸ûıù¶Ş>ôÃÀºóŒˆ'pyô;ğv©`Mrß»Õ
-
-Yn2d`!ÆéØî°Oo¯“òu§±A%Ìz»ã“ÁtùWšø°¤¨ƒ`3ßq¿Z¢øqoÓ®;"“Q¨DnDÇ›<î£8QHÙ8€ñ¯ñ¯¸¶¿’(œ…ú¨=~fœBAµÿÙ
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: image/webp
-Content-Transfer-Encoding: binary
-Content-Location: http://www.blogger.com/img/logo-16.png
-
-RIFFÖ   WEBPVP8X
-          ALPH     ¦!&Œ_ÿrjDDÂ ÛH½œØ¡½ÿDô?Ë¼…VP8    ğ *  ÀL%°tºøJ`y ˆ¸·	8TW°  Û=Ï'ägä‡;YLY§¤ÃÑ$tøë‡
-,†”t¼8Ëjü‡ö=?e${B>‘„n)kûk0Æ"Ë|@íXpTzÿøfËãà_ëâ ŠG¼æ'½ÿñÊ¾(¶q€Eª™©¶N€  
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-10696EFC91174AB92A57620CBA3FAA23@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?m=1
-
-<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body marginwidth="0" marginheight="0"><iframe id="google_ads_frame1" name="google_ads_frame1" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="360" height="300" frameborder="0" src="cid:frame-D1DC47A4322F69A797FE0742DD726649@mhtml.blink" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-load-complete="true"></iframe></body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-7FE35F934639A2161F17ADEFF86F27CB@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://googleads.g.doubleclick.net/pagead/html/r20200303/r20190131/zrt_lookup.html#
-
-<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
-</body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-D3030AA65614048F7FBAA412982F5EFD@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?m=1
-
-<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body marginwidth="0" marginheight="0"><iframe id="google_ads_frame2" name="google_ads_frame2" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="360" height="300" frameborder="0" src="cid:frame-FE55D7CCBF3A4D48CF290274BEBF5897@mhtml.blink" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!2" data-load-complete="true"></iframe></body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-DB42309040F0C07CFFB95A2CB4060C17@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://www.blogger.com/comment-iframe.g?blogID=7613657766748673644&postID=2035134166361193961&m=1&blogspotRpcToken=7934363#%7B%22color%22:%22rgb(102,%20102,%20102)%22,%22backgroundColor%22:%22rgb(255,%20255,%20255)%22,%22unvisitedLinkColor%22:%22rgb(34,%20136,%20187)%22,%22fontFamily%22:%22%5C%22Trebuchet%20MS%5C%22,%20Trebuchet,%20Verdana,%20sans-serif%22%7D
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-5c0d3f3f-4919-4520-8b5b-ee17653c91a8@mhtml.blink" /><title>Blogger: ILMU KOMPUTER - Post a Comment</title>
-<link href="https://www.blogger.com/static/v1/v-css/2621646369-cmtfp.css" rel="stylesheet" type="text/css">
-
-
-</head>
-<body class="lang_en rb">
-<div id="allHolder" class="compact"><div id="main-error-holder"><table cellpadding="0" cellspacing="0" class="status-msg error"><tbody><tr class="top"><td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td>
-<td class="msgcolor stretch"></td>
-<td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td></tr>
-<tr><td class="msgcolor"></td>
-<td id="main-error" class="msgcolor"></td>
-<td class="msgcolor"></td></tr>
-<tr class="bottom"><td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td>
-<td class="msgcolor stretch"></td>
-<td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td></tr></tbody></table></div>
-<div id="main-status-holder"><table cellpadding="0" cellspacing="0" class="status-msg status"><tbody><tr class="top"><td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td>
-<td class="msgcolor stretch"></td>
-<td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td></tr>
-<tr><td class="msgcolor"></td>
-<td id="main-status" class="msgcolor"></td>
-<td class="msgcolor"></td></tr>
-<tr class="bottom"><td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td>
-<td class="msgcolor stretch"></td>
-<td class="corner"><img alt="" src="https://resources.blogblog.com/img/blank.gif" width="1" height="1"></td></tr></tbody></table></div>
-<div id="anonymousWarning" style="display: none;">Comment with your Google account if youâ€™d like to be able to manage your comments in the future. If you comment anonymously, you wonâ€™t be able to edit or delete your comment.
-<a href="https://www.blogger.com/go/anonymouscommentshelp" target="_blank">Learn more</a></div>
-
-
-<form action="https://www.blogger.com/comment-iframe.do" method="POST" name="commentForm" id="commentForm" accept-charset="utf-8" target="_self">
-
-
-
-
-
-
-
-
-
-<div id="commentsHolder"><div id="identityHolder" style="display: none;"></div>
-
-<div class="commentBodyContainer"><textarea name="commentBody" rows="4" cols="50" id="commentBodyField" placeholder="Enter your comment..."></textarea><br></div>
-
-<div id="identityControlsHolder" class="enableAvatar identity-type-CURRENT"><div class="loggedInAvatar"><div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="https://www.blogger.com/profile/02781675246619001590" target="_parent" rel="nofollow" class="avatar-hovercard" id="av-02781675246619001590"><img src="https://lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35" width="35" height="35" alt="Commenting as a.guxs145@gmail.com" title="Unknown" id="avatarPreview">
-<div style="position: relative;"><img id="avatarCenterThumbnail" style="display: none; margin: 0; padding: 0;" alt=""></div>
-</a></span></div></div>
-<div class="identitySelectorContainer"><label id="commentSelectorLabel" for="identityMenu">Comment as:</label>
-<div class="dropdown"><select id="identityMenu" name="identityMenu" dir="ltr" style="display: inline;"><option value="NONE" disabled="">Select profile...</option><option value="CURRENT">a.guxs145@gmail.com (Google)</option></select></div>
-<span id="editButton" style="display: none;"><a>Edit</a></span>
-<span id="settingsButton" style="display: none;"><a>Settings</a></span>
-<span id="signoutLink"><span id="commentDash" style="display: none;">â€“</span>
-<a target="_top" class="signoutButton" href="https://hendrasaputra10.blogspot.com/logout?d=https://www.blogger.com/logout-redirect.g?blogID%3D7613657766748673644%26postID%3D2035134166361193961">Sign out</a></span></div>
-<div id="id-error" style="display: none;"></div></div></div>
-<div id="postCommentButtonHolder" class="postCommentButtonHolder"><div id="subscribeButtonHolder" class="container" style="display: block;"><span id="subscribeButton" class="notifyMeCheckbox"></span>
-<span class="checkboxLabel">Notify me</span></div>
-<input type="button" id="postCommentSubmit" name="postCommentSubmit" value="Publish" disabled="">
-<input type="button" id="postCommentPreview" name="postCommentPreview" value="Preview" disabled="">
-<span id="empty-error"></span><span id="body-error"></span></div>
-</form>
-</div>
-<form action="https://www.blogger.com/comment-subscription-ajax.do" method="POST" name="commentSubscriptionForm" id="commentSubscriptionForm">
-
-
-</form>
-</body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: cid:css-5c0d3f3f-4919-4520-8b5b-ee17653c91a8@mhtml.blink
-
-@charset "utf-8";
-
-body { color: rgb(102, 102, 102); font-family: "Trebuchet MS", Trebuchet, Verdana, sans-serif; }
-
-a:link, a:visited, a:active, a:hover { color: rgb(34, 136, 187); }
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/css
-Content-Transfer-Encoding: binary
-Content-Location: https://www.blogger.com/static/v1/v-css/2621646369-cmtfp.css
-
-@charset "utf-8";
-
-body { margin: 0px; }
-
-@media (max-width: 350px) {
-  div#commentsHolder { padding: 8px 12px 4px; }
-  div.dropdown { display: block; margin: 0px; }
-  div.dropdown select#identityMenu { width: 100%; }
-  span#signoutLink { margin-bottom: 7px; }
-}
-
-@media (max-width: 420px) {
-  .dialog { left: 10px; right: 10px; width: inherit; }
-  .dialog .group { display: block; }
-  .dialogField { width: 100%; }
-}
-
-@media (min-width: 420px) {
-  .dialog { width: 307px; }
-  .dialogField { width: 280px; }
-}
-
-a, body, div, input, p, span, td { font-family: arial, sans-serif; font-size: 13px; }
-
-a { color: rgb(0, 158, 184); text-decoration: underline; }
-
-input[type="button"] { background-color: rgb(245, 245, 245); border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 2px; color: rgb(34, 34, 34); font-size: 11px; font-weight: bold; height: 27px; margin: 1px 0px 0px 15px; padding-bottom: 0px; text-align: center; text-shadow: rgba(0, 0, 0, 0.1) 0px 1px; vertical-align: top; width: 75px; -webkit-appearance: none; }
-
-input[type="button"]:active, input[type="button"]:focus:active { border: 1px solid rgb(77, 144, 254); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px inset; }
-
-h3 { margin: 5px 0px; }
-
-label { font-weight: bold; }
-
-.postCommentButtonHolder { background-color: rgb(245, 245, 245); padding: 10px 10px 4px; clear: both; }
-
-.dialog { background: rgb(255, 255, 255); border: 1px solid rgb(238, 238, 238); color: rgb(0, 0, 0); padding: 10px 10px 10px 14px; position: absolute; z-index: 1; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 1px 1px 1px; }
-
-.dialog h3 { margin: 0px 0px 10px; }
-
-.dialog h4 { margin: 2px 0px; }
-
-.dialog img { margin: 2px 0px; }
-
-.dialog input { margin: 2px 0px; position: relative; }
-
-.dialog .group { margin: 5px 0px; }
-
-.dialog .top h3 { font-size: 16px; font-weight: normal; }
-
-.dialog .errorMsg { padding: 5px 10px; background: rgb(255, 153, 153); color: rgb(102, 0, 0); }
-
-img.close { position: relative; margin: 0px; float: right; cursor: pointer; }
-
-img#captcha-img { border: 1px solid rgb(221, 221, 221); padding: 5px 30px; background: none 0px center repeat scroll rgb(255, 255, 255); }
-
-.shown-openid-url { color: rgb(136, 136, 136); font-style: italic; }
-
-#openIdUriDisplayUsername { color: rgb(0, 0, 0); }
-
-#postCommentSubmit { background-color: rgb(77, 144, 240); border: 1px solid rgb(48, 121, 237); color: rgb(255, 255, 255); font-weight: bold; margin: 0px 8px 6px 0px; }
-
-#postCommentPreview { color: rgb(68, 68, 68); margin: 0px 8px 6px 0px; }
-
-#postCommentSubmit:hover { background-color: rgb(53, 122, 232); background-image: -webkit-linear-gradient(top, rgb(77, 144, 254), rgb(53, 122, 232)); border-color: rgb(47, 91, 183); }
-
-#postCommentPreview:hover, .signoutButton:hover { background-color: rgb(248, 248, 248); background-image: -webkit-linear-gradient(top, rgb(248, 248, 248), rgb(241, 241, 241)); border: 1px solid rgb(198, 198, 198); color: rgb(34, 34, 34); transition: all 0s ease 0s; box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; }
-
-#id-error, #empty-error, #captcha-error, #nameUrlDialogErrorHolder { margin-left: 10px; color: rgb(255, 51, 0); }
-
-div.errormsg { text-align: left; background: url("/img/icon_alert15.gif") left top no-repeat; padding-left: 24px; margin-top: 5px; color: red; }
-
-#commentBodyField { background-color: rgb(255, 255, 255); border: 1px solid rgb(229, 229, 229); color: rgb(34, 34, 34); display: inline-block; font-size: 13px; padding: 5px 2px 2px 5px; vertical-align: top; width: 100%; box-sizing: border-box; border-radius: 1px; -webkit-appearance: none; }
-
-#commentBodyField:focus { outline: none; box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 2px inset; border: 1px solid rgb(77, 144, 240) !important; }
-
-#commentBodyField.commentBody-err, #commentBodyField.commentBody-err:focus { width: 100%; box-shadow: none; border: 1px solid rgb(221, 75, 57) !important; }
-
-.extraInfo { color: rgb(136, 136, 136); font-size: 80%; }
-
-#LJLabel, #WPLabel, #TPLabel, #AIMLabel, #edit-profile-error, #main-status-holder, #main-error-holder, #identityHolder, #captchaHolder, #identityHolder .dialog { display: none; }
-
-#editButton, #settingsButton, #commentDash { display: none; margin-left: 5px; }
-
-#info-wrap { width: 80%; }
-
-.error div.errormsg { display: inline; }
-
-table { font-size: 100%; border-width: 0px; border-spacing: 0px; border-style: none; border-collapse: collapse; }
-
-table.td { border-width: 0px; padding: 0px; border-style: none; }
-
-table.status-msg { margin: auto; width: auto; }
-
-table.status-msg td.corner { height: 1px; width: 1px; line-height: 1px; margin: 0px; background-color: transparent; }
-
-table.status-msg td.stretch { height: 2px; line-height: 2px; margin: 0px; }
-
-.status-msg a { text-decoration: underline; padding-left: 0.2em; }
-
-.noInfo { visibility: hidden; }
-
-.error .msgcolor { background: none; color: red; font-weight: normal; }
-
-.status .msgcolor { background: rgb(249, 237, 190); color: rgb(51, 51, 51); opacity: 1; transform: scale(1); }
-
-table.status-msg img { display: block; }
-
-.saved { padding: 0px 5px; }
-
-#anonymousWarning { background: rgb(249, 237, 190); color: rgb(51, 51, 51); padding: 6px; }
-
-div#info-wrap { margin-bottom: 4px; margin-top: 4px; }
-
-#subscribe { margin-right: 5px; }
-
-#allHolder { background-color: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238); border-image: initial; }
-
-.notifyMeCheckbox { background-color: rgb(255, 255, 255); border: 1px solid rgb(220, 220, 220); cursor: pointer; display: inline-block; height: 13px; margin: 6px 0px 0px; position: relative; width: 13px; -webkit-appearance: none; border-radius: 1px; box-sizing: border-box; }
-
-.notifyMeCheckbox:hover { border-color: rgb(198, 198, 198); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px inset; }
-
-.notifyMeCheckbox:focus { border-color: rgb(77, 144, 254); outline: none; }
-
-#subscribeButtonHolder.checked .notifyMeCheckbox { background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAYAAACpF6WWAAAAtklEQVQ4y2P4//8/A7Ux1Q0cxoaCADIbCUgCMTvVXAoE5kA8CYidyXYpGrAH4iVAHIXiCwoMDQTimUBcBsRMlBrKCsTpUANzkC0j11BuIK6EGlgKsoAkQ4FgChD7AzELVI8YEDdDDawDYk6YQaQY6gg1oAqILYC4D8oHGcyLbBAphoJAKtQgGO4EYiHk2CLHUJAXm6AG9gCxNHoSIMdQEJCFGqiALaGSayjMxQwUGzq0S6nhZygA2ojsbh6J67kAAAAASUVORK5CYII=") -6px -4px rgb(255, 255, 255); height: 13px; width: 13px; }
-
-.notifyMeCheckbox:active { background: rgb(235, 235, 235); border-color: rgb(198, 198, 198); }
-
-.checkboxLabel { padding-left: 3px; }
-
-@media only screen and (max-device-width: 1024px) and (min-device-width: 768px) {
-  .notifyMeCheckbox { margin: 12px 0px -1px !important; }
-}
-
-#subscribeButtonHolder { color: rgb(68, 68, 68); float: right; padding-right: 6px; }
-
-#main-error, #main-status { padding: 2px 6px; }
-
-.r { clear: both; display: block; margin: 0px; padding: 0px; height: 1px; line-height: 1px; font-size: 1px; }
-
-dl { display: block; margin-bottom: 5px; }
-
-#comments-block { background-color: rgb(241, 241, 241); border: 1px solid rgb(235, 235, 235); height: 130px; min-height: 100px; }
-
-#comments-block dl dd { height: 135px; overflow: auto; padding-bottom: 1px; width: 318px; }
-
-#preview-actions { margin-top: 15px; }
-
-#comments-block a { color: rgb(0, 158, 184) !important; }
-
-#comments-block { margin: 0px; }
-
-#comments-block dd { padding-bottom: 0.75em; }
-
-#comments-block dd, #comments-block dd p { color: rgb(34, 34, 34); line-height: 140%; margin: 0px 0px 0.75em; }
-
-#comments-block dt.collapsed { font-size: 100%; margin: 0px 0px 4px; border-bottom: 1px solid rgb(204, 204, 204) !important; }
-
-#comments-block dt.collapsed img { display: none; }
-
-#comments-block dt.collapsed img.comment-icon { display: inline; }
-
-#comments-block dd.collapsed { display: none; }
-
-.comment-timestamp { color: rgb(119, 119, 119); font-size: 11px; margin: -0.25em 0px 1em; }
-
-.deleted-comment { font-style: italic; color: gray; }
-
-#preview-image { display: none; float: none; margin-bottom: 0px; }
-
-#preview-profile { float: right; }
-
-#preview-main, #preview-header { background: transparent; border: 1px solid rgb(153, 153, 153); padding: 1em; width: 395px; }
-
-#preview-main a, #preview-header a { position: relative; cursor: pointer; }
-
-#preview-main { border-top: 0px; padding-top: 0px; margin-top: 0px; height: 80px !important; margin-left: 20px !important; }
-
-#preview-header { border-bottom: 0px; padding-bottom: 0px; margin-bottom: 0px; padding-top: 0.25em !important; }
-
-#preview-actions { font-size: 95%; white-space: nowrap; margin-bottom: 0px !important; }
-
-#preview-actions a { margin: 0px; padding: 0px; }
-
-#preview-actions .lnk { display: block; width: 47%; margin: 0px; }
-
-#preview-actions .left { float: left; }
-
-#preview-actions .right { float: right; margin-left: 0.2em; text-align: right; }
-
-#preview-body { padding-top: 1em; border-bottom: 0px; }
-
-@media only screen and (max-device-width: 1024px) and (min-device-width: 768px) {
-  #preview-body { padding-top: 0px; }
-}
-
-.comment-icon { line-height: 16px; display: inline; }
-
-#comments-block #preview-header img { margin-bottom: -2px; }
-
-.blogger-comment { background: url("/img/cmt/comment_sprite.gif") -45px -117px no-repeat; width: 16px; height: 16px; }
-
-.openid-comment { background: url("/img/cmt/comment_sprite.gif") -45px -149px no-repeat; width: 16px; height: 16px; }
-
-.anon-comment { background: url("/img/cmt/comment_sprite.gif") -45px -101px no-repeat; width: 16px; height: 16px; }
-
-#allHolder.previewMode #postCommentButtonHolder, #allHolder.previewMode #identityControlsHolder, #allHolder.previewMode textarea, #allHolder.previewMode select { display: none; }
-
-.previewMode { background-color: transparent !important; border: 0px !important; }
-
-#allHolder #previewHolder { display: none; }
-
-#allHolder.previewMode #previewHolder { display: block; }
-
-#previewHolder { background-color: rgb(255, 255, 255); border: 1px solid rgb(187, 187, 187); width: 514px; }
-
-div.profile-image-container img { display: none; }
-
-.editLink { float: right; padding: 4px 4px 0px 0px; }
-
-#comments-block .avatar-image-container { height: 37px; left: 1em; overflow: hidden; position: absolute; top: 2px; width: 37px; }
-
-#comments-block .avatar-image-container img { border: 1px solid rgb(204, 204, 204); float: right; }
-
-#comments-block .avatar-image-container.avatar-stock img { border-width: 0px; padding: 1px; }
-
-#comments-block .avatar-preview-anon .avatar-image-container { display: none; }
-
-#comments-block .avatar-preview { padding-left: 45px; width: 296px; }
-
-#comments-block .avatar-preview #preview-main, #comments-block .avatar-preview #preview-header { width: 400px; }
-
-img.upload-from-cmt-preview { background-color: rgb(255, 255, 255); border: 1px solid rgb(187, 187, 187); margin-bottom: 3px; padding: 5px; }
-
-#upload-profile-photo-zippy { margin-bottom: 8px; margin-top: 10px; display: block; }
-
-#upload-simple-photo-form { margin-bottom: 8px; }
-
-#upload-simple-photo-form p { color: rgb(153, 153, 153); font-size: 90%; padding-bottom: 5px; }
-
-#comments-block .avatar-comment-border { border: 0px; padding-left: 0px; position: relative; }
-
-#preview-container { margin-left: 25px; }
-
-#comments-block .avatar-comment-border #preview-main, #comments-block .avatar-comment-border #preview-header { border-width: 0px; margin-top: 4px; }
-
-#comments-block .avatar-comment-border dd { margin-bottom: 0px; }
-
-#comments-block .avatar-comment-border .editLink { padding-top: 0px; }
-
-#comments-block .avatar-comment-border #preview-header { margin-top: 0.25em; }
-
-.avatar-comment-border #preview-header { margin-left: 20px; }
-
-iframe.avatar-hovercard-iframe { border: 0px none; padding: 0px; width: 25em; height: 9.4em; margin: 0.5em; }
-
-.mobile-dialog { position: absolute; color: rgb(0, 0, 0); }
-
-#comments-block .mobile-avatar-preview { padding-left: 45px; margin-bottom: -1px; }
-
-#comments-block .mobile-avatar-preview #preview-main, #comments-block .mobile-avatar-preview #preview-header { width: 180px; }
-
-#commentSelectorLabel { color: rgb(102, 102, 102); }
-
-#signoutLink { float: right; margin-top: 7px; vertical-align: middle; }
-
-#identityControlsHolder { padding-top: 8px; }
-
-#identityControlsHolder .genericAvatar { display: block; background-image: url("https://resources.blogblog.com/img/anon36.png"); width: 36px; height: 36px; }
-
-#identityControlsHolder .genericAvatar, #identityControlsHolder .loggedInAvatar { display: none; }
-
-#identityControlsHolder.enableAvatar .genericAvatar, #identityControlsHolder.enableAvatar .loggedInAvatar { display: block; float: left; height: 36px; margin-right: 8px; width: 36px; }
-
-#postCommentWrapper #postCommentSubmit { margin: 8px 0px 6px; }
-
-#commentsHolder { padding: 18px 22px 10px; }
-
-.signoutButton { background-color: rgb(245, 245, 245); background-image: -webkit-linear-gradient(top, rgb(245, 245, 245), rgb(241, 241, 241)); border: 1px solid rgba(0, 0, 0, 0.1); cursor: default; display: inline-block; font-size: 11px; font-weight: bold; height: 27px; line-height: 27px; min-width: 54px; padding: 0px 8px; text-align: center; text-decoration: none; border-radius: 2px; transition: all 0.218s ease 0s; user-select: none; color: rgb(68, 68, 68) !important; }
-
-.dropdown { background-color: rgb(245, 245, 245); border: 1px solid rgba(0, 0, 0, 0.1); border-radius: 2px; display: inline-block; height: 30px; margin: 4px; outline: none medium; overflow: hidden; vertical-align: middle; }
-
-#identityMenu { background: none 0px 0px repeat scroll transparent; border: medium none; border-radius: 2px; font-size: 13px; height: 30px; margin: 0px; outline: none medium; padding: 6px; width: 120px; }
-
-.dropdown:hover { border-color: rgb(184, 184, 184); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; }
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: image/gif
-Content-Transfer-Encoding: binary
-Content-Location: https://resources.blogblog.com/img/blank.gif
-
-GIF89a  €  ÿÿÿ   !ù    ,       D ;
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: image/png
-Content-Transfer-Encoding: binary
-Content-Location: https://lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35
-
-‰PNG
-
-   IHDR   #   #   Ù³Y   sBIT|dˆ  IDATX…µ˜MŒG€¿WUİ³³;ãİõ†8ÙØ‘òK,ˆ%Ø¢ £(Úä F9äRî9 KpBhe!{å\„•XA
-^F±„œŒ?±×^ÿììÌÎtW=İ3Ó=?Ö.ˆÒÔ¨º«ê½¯ß{õªº…-=]•0ñ"»	•Y$šBM“6ñI6n¢ée¤ó¶i}w+²eS ?­ŞO£vìÃX©àB·S³Šö'¤aüòÒ×n~JhÿÏ0º8·„Æ‡ ZÒÙ”Ãh·SûÕä×ÚyK^Xÿâ£oLÂÖO€ÙN:Š ÒUX´Ğ œ×i7ÈËş£D™‘òOÕ_ÁN/áåî [)©‚—{¨ÔÎêbôÒ¦`ôTı\í{¤c\2²Üm`¡OR„0¹ §¢ùÁ‘%7e®™^k½!ECñ^¡m@¤÷•Œ%ÀªÒh>!Gı/»Ó]I™­ŸÀé «híqü®/jC
-
-HH‘ëB®¼†0nî.©àj•“Ğ¼·{»7^ç– >4d½ƒvš´œ'ÙùP®80Xë¤‰ıÃ"öâ7p“Û£È¸Àv
-!ù‰¼ØşR&Ë#3ÿ¶Jf‘æÓÿÀOÍ!>÷¬…"OÀÅ³Ä¿ıQmS\ê]ËtÛF‘×ºÜ¨%VÛ«´?óë-€äOŞiÁ¾'¹sÿk¤ÉÍrx«µõGñÏû0Ø‡	ƒî¹N$Ù¹D¬Í\2X¥°8“6òĞÜ¸	ªcd‰4Ø NO×_…<Å‹OI?úL%aåâï MA²>4x¦ví¥:»Õ ¨îØÅJ'f¢µÁìd¥l½bÓJU»£0ñ£ÈB}w)XÅZ®¿û®½ù9&¦!²}€;7`Ïw¾ÕÈ'8l}k­?Ù*µŠ/È/èô
-Všl÷cÂÁµ”úGö`-Ø5ppMˆÖ!ºs¾NHû.Õ´C}ÿ·Iÿwş}‹õæZÙ*½€”½ofGqŒ4–â™{Ù÷º‘¢¸ì“Mú›³ú„ú'3ó)E}ÊÚ™o¡+Ç¨U§Ê@
-`¶9T§PÉoôEOX¤µ>®wx¸OH×“,Àw?ÉÚßa¡¸L©‚V‡Î#›ß”¶T4xh§ĞI¤à&46šÙÍÄô,¥ã…$•Ì*™:MÔÔ‡‚d“ˆÁNL"2[üF“òšƒhnF”Ô8« 4Vo’êÍXDÄĞZı€¿ÛƒSp&Ü«š×v|ó2Ñì}% Éÿ2€€‚3€ñ·!½Œ‰>/ªÍÁ³²í«W¨NÀÔ6ˆ“çšü‰-×®Àö„¢æà
-İ6 \rHçmLtx(pû2˜G{‡o™O|šè+¿Â¤¬Hw…¦)¸÷àş,`{¿ú>‘ÉÆtADÈvïp.ÛµOlo˜(?Å*óÏCÒNY¡± 2˜Ê–¾<ÇE¬şàqj²L5ªâlbQ0¡i^N¦ò-Yî@ó%³ØæyøËpQYUğ¨OÁ§FÕaõK°e¬™ÂtcE¬"Fßé:ƒŸ)•ÃoÌnôãFó_›v£ÅÆ³ÇÍ|M7{Œ(ƒ´W¯±¶ğ õK5®Ù€ÍÎ9NÕÌ'ò#ÄSBí¼…¥›3AÄD“àNïbı½ßƒ‹1Q<úø0X£\DãÒÖ`rbWÁå ‚"şL¼dşÓ+x¹§˜sT¯m:6è#˜=ÏáæD
-‘+…†ääo¼ïMÜú25Kì*Ä.dé€€1€	We>½¯;½| o7P©%Õ¾|K…J­ÂN•?Ÿ'MG,éÂÙFbâÀÎLÅ™€í‚`T¹•~µäÒAëbå%BeÎğ{“ª¢Àí–%„,‹vó†ôrH~MvÏ˜l\×5F€XÁ%ÏËï
- §¢yÒ‰<2|–È®×6l¶è…Ìª½ÌZÌ#Bbr‹T’#ƒ 0æõVOÓh>õ+=Gv¿6hÖ®WRŒÉ³¡Ñ5F&\åVòÙQ c-S²Ã+?÷40ğ"k4“[(2h/~¬dyDEUğgd><{7]›ú>ùëD°°RÅk/7¢J'1(šÇX8EÓĞãß‘ùğùÍèØ4Lê¸;Š•ƒ({5˜mŞK-âè8£ãüm#\¢ÎÉ×Ã÷·"û?†ó41WÓw8    IEND®B`‚
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-FCFB9D7EF852F9D4B954DFF5CD298B07@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: http://hendrasaputra10.blogspot.com/2016/01/cara-membuat-program-penjualan-barang.html?m=1
-
-<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body marginwidth="0" marginheight="0"><iframe id="google_ads_frame2" name="google_ads_frame2" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" src="cid:frame-DD44B4120E458846A452B36CC3ADC8E1@mhtml.blink" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!2" data-load-complete="true"></iframe></body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-001F8A5FED1132E0DB2B0C69B7E7642A@mhtml.blink>
-Content-Transfer-Encoding: binary
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body></body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-D1DC47A4322F69A797FE0742DD726649@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7128301598116920&output=html&h=300&slotname=6585169097&adk=304611316&adf=2404676232&w=360&lmt=1582897603&rafmt=1&psa=0&guci=2.2.0.0.2.2.0.0&format=360x300&url=http%3A%2F%2Fhendrasaputra10.blogspot.com%2F2016%2F01%2Fcara-membuat-program-penjualan-barang.html%3Fm%3D1&flash=0&host=ca-host-pub-1556223355139109&h_ch=L0007&fwr=1&rpe=1&resp_fmts=3&sfro=1&wgl=1&adsid=ChAIgMyS8wUQ0dW0hc_U_eN9EkEABZJtQ0EHRtFMEVKGPgmOjK9mooIwfLoSrbvPCzHQWpwjv-9v92axxTZAO3iUI6oRtabZb0hySJTWbyFDJ951Uw&dt=1583716623928&bpp=189&bdt=936&fdt=1707&idt=1708&shv=r20200303&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=6431991986447&frm=20&pv=2&ga_vid=1337113140.1583716626&ga_sid=1583716626&ga_hid=161809669&ga_fc=0&iag=0&icsg=699168&dssz=20&mdo=0&mso=0&u_tz=420&u_his=1&u_java=0&u_h=640&u_w=360&u_ah=640&u_aw=360&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=30&biw=360&bih=560&scr_x=0&scr_y=0&eid=423550200&oid=3&pvsid=551490189749619&pem=848&ref=http%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=900&brdim=0%2C0%2C0%2C0%2C360%2C0%2C360%2C560%2C360%2C560&vis=1&rsz=%7C%7CpeE%7C&abl=CS&pfx=0&fu=144&bc=23&jar=2020-03-03-14&ifi=1&uci=a!1&fsb=1&xpc=hiD5fIlPdD&p=http%3A//hendrasaputra10.blogspot.com&dtd=1821
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body style="background-color:transparent" marginwidth="0" marginheight="0">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-FE55D7CCBF3A4D48CF290274BEBF5897@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7128301598116920&output=html&h=300&slotname=6585169097&adk=3704714987&adf=1977085322&w=360&lmt=1582897603&rafmt=1&psa=0&guci=2.2.0.0.2.2.0.0&format=360x300&url=http%3A%2F%2Fhendrasaputra10.blogspot.com%2F2016%2F01%2Fcara-membuat-program-penjualan-barang.html%3Fm%3D1&flash=0&host=ca-host-pub-1556223355139109&h_ch=L0007&fwr=1&rpe=1&resp_fmts=3&sfro=1&wgl=1&adsid=ChAIgMyS8wUQ0dW0hc_U_eN9EkEABZJtQ0EHRtFMEVKGPgmOjK9mooIwfLoSrbvPCzHQWpwjv-9v92axxTZAO3iUI6oRtabZb0hySJTWbyFDJ951Uw&dt=1583716624669&bpp=61&bdt=1677&fdt=1252&idt=1253&shv=r20200303&cbv=r20190131&ptt=9&saldr=aa&abxe=1&prev_fmts=360x300&correlator=6431991986447&pv_h_ch=L0007&frm=20&pv=1&ga_vid=1337113140.1583716626&ga_sid=1583716626&ga_hid=161809669&ga_fc=0&iag=0&icsg=34253600&dssz=21&mdo=0&mso=0&u_tz=420&u_his=1&u_java=0&u_h=640&u_w=360&u_ah=640&u_aw=360&u_cd=24&u_nplug=0&u_nmime=0&adx=0&ady=3508&biw=360&bih=560&scr_x=0&scr_y=0&eid=423550200&oid=3&pvsid=551490189749619&pem=848&ref=http%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=900&brdim=0%2C0%2C0%2C0%2C360%2C0%2C360%2C560%2C360%2C560&vis=1&rsz=%7C%7CpeEbr%7C&abl=CS&pfx=0&fu=144&bc=23&jar=2020-03-03-14&ifi=2&uci=a!2&btvi=1&fsb=1&xpc=2dzB1cG1y2&p=http%3A//hendrasaputra10.blogspot.com&dtd=1296
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body style="background-color:transparent" marginwidth="0" marginheight="0">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2----
-Content-Type: text/html
-Content-ID: <frame-DD44B4120E458846A452B36CC3ADC8E1@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-7128301598116920&output=html&adk=1812271804&adf=3025194257&lmt=1582897603&plat=16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C32%3A32%2C40%3A32&guci=2.2.0.0.2.2.0.0&format=0x0&url=http%3A%2F%2Fhendrasaputra10.blogspot.com%2F2016%2F01%2Fcara-membuat-program-penjualan-barang.html%3Fm%3D1&ea=0&flash=0&host=ca-host-pub-1556223355139109&h_ch=L0007&pra=7&wgl=1&adsid=ChAIgMyS8wUQ0dW0hc_U_eN9EkEABZJtQ0EHRtFMEVKGPgmOjK9mooIwfLoSrbvPCzHQWpwjv-9v92axxTZAO3iUI6oRtabZb0hySJTWbyFDJ951Uw&dt=1583716625208&bpp=42&bdt=2217&fdt=969&idt=969&shv=r20200303&cbv=r20190131&ptt=9&saldr=aa&abxe=1&prev_fmts=360x300%2C360x300&nras=1&correlator=6431991986447&pv_h_ch=L0007&frm=20&pv=1&ga_vid=1337113140.1583716626&ga_sid=1583716626&ga_hid=161809669&ga_fc=0&iag=0&icsg=137005856&dssz=23&mdo=0&mso=0&u_tz=420&u_his=1&u_java=0&u_h=640&u_w=360&u_ah=640&u_aw=360&u_cd=24&u_nplug=0&u_nmime=0&adx=-12245933&ady=-12245933&biw=360&bih=560&scr_x=0&scr_y=0&eid=423550200&oid=3&pvsid=551490189749619&pem=848&ref=http%3A%2F%2Fwww.google.com%2F&rx=0&eae=2&fc=896&brdim=0%2C0%2C0%2C0%2C360%2C0%2C360%2C560%2C360%2C560&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=16&bc=23&jar=2020-03-03-14&ifi=2&uci=a!2&fsb=1&dtd=1033
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body marginwidth="0" marginheight="0"></body></html>
-------MultipartBoundary--Zz5r4TejbKuEYAQDqv2gQ7Tm3teLCL4CLZLtsZdel2------
