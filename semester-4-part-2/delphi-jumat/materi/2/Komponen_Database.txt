@@ -1,0 +1,36 @@
+Komponen untuk mengakses database yang built in pada Delphi 2010 terletak pada empat tab:
+1. dbExpress
+2. BDE
+3. dbGo
+4. Interbase
+
+dbExpress dan dbGo, memungkinkan aplikasi untuk mengakses bermacam-macam database selama
+driver akses ke database tersebut ada. 
+
+BDE digunakan untuk mengakses database menggunakan Borland
+Database Engine. 
+
+Interbase digunakan untuk mengakses database server Interbase. Interbase adalah
+database server bawaan yang jadi satu paket dengan Delphi.
+
+Selain komponen akses database built in, di pasaran tersedia pula komponen akses database yang
+dikembangkan perusahaan atau komunitas diluar lingkup Embarcadero. Komponen-komponen tersebut
+biasa disebut komponen akses database third party.  Komponen third party ini ada yang komersial ada
+pula yang free, diantaranya:
+1. MyDac, komersial, digunakan untuk mengakses database server MySQL
+2. PgDac, komersial, digunakan untuk mengakses database server PostgreSQL
+3. UniDAC, komersial, digunakan untuk mengakses multi database
+4. SQL Direct, komersial, bisa digunakan mengakses multi database
+5. Zeos DBO, free, bisa digunakan mengakses multi database
+
+pada sesi pertama kita akan menggunakan dbGO sebagai komponen untuk mengkases database
+dbGO terdiri atas komponen-komponen berikut:
+Nama Komponen Keterangan
+TADOConnection Digunakan untuk koneksi ke database
+TADOCommand Digunakan untuk mengekseskusi perintah SQL
+TADODataset Komponen dataset multiguna
+TADOTable Untuk menampilkan representasi suatu tabel dalam database
+TADOQuery Digunakan untuk mengakses perintah SQL
+TADOStoredProc Digunakan untuk mengakses Stored Procedure (proseduer tersimpan
+dalam suatu database)
+TRDSConnection Koneksi Remote Data Service
