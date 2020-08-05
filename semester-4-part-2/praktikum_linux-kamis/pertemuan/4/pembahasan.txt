@@ -1,0 +1,7 @@
+1. install guest addition dan pengenalan ubuntu destop in virtualbox, 
+    link : 
+        - video : https://youtu.be/tGGsPl6l0T8
+2. install ubuntu server in virtualbox and basic access server host(local), 
+    link : 
+        - video : https://youtu.be/VItrqf4AVVc
+        - download : https://ubuntu.com/download/server

@@ -1,0 +1,7 @@
+1. download dan install virtual box versi 6 (terbaru pada tahun 2020),
+    link : 
+        - download : https://www.virtualbox.org/
+2. download dan install ubuntu destop versi 16/18/20,
+    link : 
+        - download(20) : https://ubuntu.com/download
+3. presentasi via zoom (dipertemuan 2)
