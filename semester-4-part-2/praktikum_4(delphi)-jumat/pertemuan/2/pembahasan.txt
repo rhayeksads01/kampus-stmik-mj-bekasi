@@ -1,0 +1,4 @@
+1. penjelasan tentang komponen-komponen yang akan digunakan
+2. create new project delphi,
+    link :
+        - watch : https://www.youtube.com/watch?v=HzgZYKZgZxo&feature=youtu.be&ab_channel=HartonoRj
